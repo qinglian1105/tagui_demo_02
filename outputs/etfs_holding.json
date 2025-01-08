@@ -1,0 +1,5095 @@
+{
+    "2025/01/06": [
+        {
+            "etf_code": "0050",
+            "etf_name": "元大台灣50",
+            "scraping_time": "2025-01-07 16:50:54",
+            "etf_holding": [
+                {
+                    "s_code": "2330",
+                    "s_name": "台積電",
+                    "holding_percentage": "58.63",
+                    "holding_amount": "234111997",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2891",
+                    "s_name": "中信金",
+                    "holding_percentage": "1.39",
+                    "holding_amount": "159033604",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2883",
+                    "s_name": "凱基金",
+                    "holding_percentage": "0.59",
+                    "holding_amount": "152892100",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2884",
+                    "s_name": "玉山金",
+                    "holding_percentage": "0.89",
+                    "holding_amount": "147525519",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2890",
+                    "s_name": "永豐金",
+                    "holding_percentage": "0.59",
+                    "holding_amount": "114690781",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2886",
+                    "s_name": "兆豐金",
+                    "holding_percentage": "0.99",
+                    "holding_amount": "114444422",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2887",
+                    "s_name": "台新金",
+                    "holding_percentage": "0.45",
+                    "holding_amount": "114164637",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2317",
+                    "s_name": "鴻海",
+                    "holding_percentage": "4.69",
+                    "holding_amount": "114141099",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2303",
+                    "s_name": "聯電",
+                    "holding_percentage": "1.10",
+                    "holding_amount": "113948737",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2885",
+                    "s_name": "元大金",
+                    "holding_percentage": "0.87",
+                    "holding_amount": "110877716",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2002",
+                    "s_name": "中鋼",
+                    "holding_percentage": "0.47",
+                    "holding_amount": "109715625",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2892",
+                    "s_name": "第一金",
+                    "holding_percentage": "0.63",
+                    "holding_amount": "102561410",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5880",
+                    "s_name": "合庫金",
+                    "holding_percentage": "0.54",
+                    "holding_amount": "98553866",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2882",
+                    "s_name": "國泰金",
+                    "holding_percentage": "1.37",
+                    "holding_amount": "89407065",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2880",
+                    "s_name": "華南金",
+                    "holding_percentage": "0.53",
+                    "holding_amount": "88622054",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2881",
+                    "s_name": "富邦金",
+                    "holding_percentage": "1.62",
+                    "holding_amount": "78961108",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1101",
+                    "s_name": "台泥",
+                    "holding_percentage": "0.46",
+                    "holding_amount": "64539275",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1303",
+                    "s_name": "南亞",
+                    "holding_percentage": "0.35",
+                    "holding_amount": "50011408",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1216",
+                    "s_name": "統一",
+                    "holding_percentage": "0.84",
+                    "holding_amount": "46564606",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2412",
+                    "s_name": "中華電",
+                    "holding_percentage": "1.02",
+                    "holding_amount": "36943571",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5876",
+                    "s_name": "上海商銀",
+                    "holding_percentage": "0.33",
+                    "holding_amount": "36229652",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1301",
+                    "s_name": "台塑",
+                    "holding_percentage": "0.29",
+                    "holding_amount": "35928948",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1326",
+                    "s_name": "台化",
+                    "holding_percentage": "0.21",
+                    "holding_amount": "32905524",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3711",
+                    "s_name": "日月光投控",
+                    "holding_percentage": "1.16",
+                    "holding_amount": "31361451",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2382",
+                    "s_name": "廣達",
+                    "holding_percentage": "1.73",
+                    "holding_amount": "26496951",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3231",
+                    "s_name": "緯創",
+                    "holding_percentage": "0.63",
+                    "holding_amount": "26418505",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4938",
+                    "s_name": "和碩",
+                    "holding_percentage": "0.45",
+                    "holding_amount": "21685619",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2308",
+                    "s_name": "台達電",
+                    "holding_percentage": "1.95",
+                    "holding_amount": "20984568",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2301",
+                    "s_name": "光寶科",
+                    "holding_percentage": "0.44",
+                    "holding_amount": "19367736",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4904",
+                    "s_name": "遠傳",
+                    "holding_percentage": "0.34",
+                    "holding_amount": "17171348",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2609",
+                    "s_name": "陽明",
+                    "holding_percentage": "0.29",
+                    "holding_amount": "16917137",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2454",
+                    "s_name": "聯發科",
+                    "holding_percentage": "4.59",
+                    "holding_amount": "14473800",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3045",
+                    "s_name": "台灣大",
+                    "holding_percentage": "0.36",
+                    "holding_amount": "14404332",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6505",
+                    "s_name": "台塑化",
+                    "holding_percentage": "0.11",
+                    "holding_amount": "13146188",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3037",
+                    "s_name": "欣興",
+                    "holding_percentage": "0.43",
+                    "holding_amount": "12624044",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2603",
+                    "s_name": "長榮",
+                    "holding_percentage": "0.50",
+                    "holding_amount": "9862887",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5871",
+                    "s_name": "中租-KY",
+                    "holding_percentage": "0.24",
+                    "holding_amount": "9322278",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2357",
+                    "s_name": "華碩",
+                    "holding_percentage": "1.01",
+                    "holding_amount": "7234429",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3034",
+                    "s_name": "聯詠",
+                    "holding_percentage": "0.61",
+                    "holding_amount": "5559141",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2912",
+                    "s_name": "統一超",
+                    "holding_percentage": "0.30",
+                    "holding_amount": "5087473",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2345",
+                    "s_name": "智邦",
+                    "holding_percentage": "0.84",
+                    "holding_amount": "4873597",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2379",
+                    "s_name": "瑞昱",
+                    "holding_percentage": "0.56",
+                    "holding_amount": "4619675",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2327",
+                    "s_name": "國巨",
+                    "holding_percentage": "0.57",
+                    "holding_amount": "4514509",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2395",
+                    "s_name": "研華",
+                    "holding_percentage": "0.35",
+                    "holding_amount": "4446895",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2207",
+                    "s_name": "和泰車",
+                    "holding_percentage": "0.44",
+                    "holding_amount": "3160235",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3017",
+                    "s_name": "奇鋐",
+                    "holding_percentage": "0.43",
+                    "holding_amount": "3068913",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6446",
+                    "s_name": "藥華藥",
+                    "holding_percentage": "0.37",
+                    "holding_amount": "2484240",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6669",
+                    "s_name": "緯穎",
+                    "holding_percentage": "0.60",
+                    "holding_amount": "1003772",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3008",
+                    "s_name": "大立光",
+                    "holding_percentage": "0.55",
+                    "holding_amount": "920464",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3661",
+                    "s_name": "世芯-KY",
+                    "holding_percentage": "0.52",
+                    "holding_amount": "748046",
+                    "unit": "股"
+                }
+            ]
+        },
+        {
+            "etf_code": "00878",
+            "etf_name": "國泰永續高股息",
+            "scraping_time": "2025-01-07 16:51:06",
+            "etf_holding": [
+                {
+                    "s_code": "2890",
+                    "s_name": "永豐金",
+                    "holding_percentage": "2.62",
+                    "holding_amount": "434355182",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2324",
+                    "s_name": "仁寶",
+                    "holding_percentage": "3.50",
+                    "holding_amount": "362347000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2885",
+                    "s_name": "元大金",
+                    "holding_percentage": "3.24",
+                    "holding_amount": "349976599",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2303",
+                    "s_name": "聯電",
+                    "holding_percentage": "3.75",
+                    "holding_amount": "330887000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2892",
+                    "s_name": "第一金",
+                    "holding_percentage": "2.39",
+                    "holding_amount": "329463703",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2891",
+                    "s_name": "中信金",
+                    "holding_percentage": "3.26",
+                    "holding_amount": "316423000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1402",
+                    "s_name": "遠東新",
+                    "holding_percentage": "2.62",
+                    "holding_amount": "312938000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1101",
+                    "s_name": "台泥",
+                    "holding_percentage": "2.38",
+                    "holding_amount": "286380748",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2886",
+                    "s_name": "兆豐金",
+                    "holding_percentage": "2.66",
+                    "holding_amount": "262708964",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5876",
+                    "s_name": "上海商銀",
+                    "holding_percentage": "2.76",
+                    "holding_amount": "259787590",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2356",
+                    "s_name": "英業達",
+                    "holding_percentage": "3.26",
+                    "holding_amount": "237508000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2105",
+                    "s_name": "正新",
+                    "holding_percentage": "2.61",
+                    "holding_amount": "200118000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2882",
+                    "s_name": "國泰金",
+                    "holding_percentage": "3.05",
+                    "holding_amount": "169782486",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3702",
+                    "s_name": "大聯大",
+                    "holding_percentage": "2.77",
+                    "holding_amount": "148742000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5347",
+                    "s_name": "世界先進",
+                    "holding_percentage": "3.41",
+                    "holding_amount": "130486442",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4904",
+                    "s_name": "遠傳",
+                    "holding_percentage": "2.97",
+                    "holding_amount": "126604000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2301",
+                    "s_name": "光寶科",
+                    "holding_percentage": "3.29",
+                    "holding_amount": "123396000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1216",
+                    "s_name": "統一",
+                    "holding_percentage": "2.44",
+                    "holding_amount": "115541000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2881",
+                    "s_name": "富邦金",
+                    "holding_percentage": "2.58",
+                    "holding_amount": "107404800",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3231",
+                    "s_name": "緯創",
+                    "holding_percentage": "2.98",
+                    "holding_amount": "107132000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3045",
+                    "s_name": "台灣大",
+                    "holding_percentage": "2.80",
+                    "holding_amount": "94901000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3711",
+                    "s_name": "日月光投控",
+                    "holding_percentage": "3.85",
+                    "holding_amount": "88697000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2412",
+                    "s_name": "中華電",
+                    "holding_percentage": "2.62",
+                    "holding_amount": "81201000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2377",
+                    "s_name": "微星",
+                    "holding_percentage": "3.43",
+                    "holding_amount": "69858000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3034",
+                    "s_name": "聯詠",
+                    "holding_percentage": "5.70",
+                    "holding_amount": "43968000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2376",
+                    "s_name": "技嘉",
+                    "holding_percentage": "3.12",
+                    "holding_amount": "41686000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2382",
+                    "s_name": "廣達",
+                    "holding_percentage": "3.14",
+                    "holding_amount": "40901000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2357",
+                    "s_name": "華碩",
+                    "holding_percentage": "4.80",
+                    "holding_amount": "29217000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2379",
+                    "s_name": "瑞昱",
+                    "holding_percentage": "3.89",
+                    "holding_amount": "27541000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2454",
+                    "s_name": "聯發科",
+                    "holding_percentage": "5.27",
+                    "holding_amount": "14143000",
+                    "unit": "股"
+                }
+            ]
+        },
+        {
+            "etf_code": "0056",
+            "etf_name": "元大高股息",
+            "scraping_time": "2025-01-07 16:51:19",
+            "etf_holding": [
+                {
+                    "s_code": "2890",
+                    "s_name": "永豐金",
+                    "holding_percentage": "2.31",
+                    "holding_amount": "373033292",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2880",
+                    "s_name": "華南金",
+                    "holding_percentage": "2.43",
+                    "holding_amount": "336695360",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2891",
+                    "s_name": "中信金",
+                    "holding_percentage": "3.19",
+                    "holding_amount": "301780246",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2885",
+                    "s_name": "元大金",
+                    "holding_percentage": "2.41",
+                    "holding_amount": "253019971",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2303",
+                    "s_name": "聯電",
+                    "holding_percentage": "2.82",
+                    "holding_amount": "242077269",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2886",
+                    "s_name": "兆豐金",
+                    "holding_percentage": "2.46",
+                    "holding_amount": "236048096",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2324",
+                    "s_name": "仁寶",
+                    "holding_percentage": "2.33",
+                    "holding_amount": "234958137",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2618",
+                    "s_name": "長榮航",
+                    "holding_percentage": "2.85",
+                    "holding_amount": "224466127",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1102",
+                    "s_name": "亞泥",
+                    "holding_percentage": "2.07",
+                    "holding_amount": "191248543",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2105",
+                    "s_name": "正新",
+                    "holding_percentage": "2.34",
+                    "holding_amount": "174793950",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5876",
+                    "s_name": "上海商銀",
+                    "holding_percentage": "1.86",
+                    "holding_amount": "170494963",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2356",
+                    "s_name": "英業達",
+                    "holding_percentage": "2.28",
+                    "holding_amount": "162226258",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2353",
+                    "s_name": "宏碁",
+                    "holding_percentage": "1.64",
+                    "holding_amount": "157346680",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1303",
+                    "s_name": "南亞",
+                    "holding_percentage": "1.25",
+                    "holding_amount": "149580798",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2609",
+                    "s_name": "陽明",
+                    "holding_percentage": "2.47",
+                    "holding_amount": "120560151",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2027",
+                    "s_name": "大成鋼",
+                    "holding_percentage": "0.93",
+                    "holding_amount": "115610838",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1504",
+                    "s_name": "東元",
+                    "holding_percentage": "1.53",
+                    "holding_amount": "107070900",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4938",
+                    "s_name": "和碩",
+                    "holding_percentage": "2.45",
+                    "holding_amount": "98390476",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3702",
+                    "s_name": "大聯大",
+                    "holding_percentage": "1.73",
+                    "holding_amount": "90542944",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2347",
+                    "s_name": "聯強",
+                    "holding_percentage": "1.73",
+                    "holding_amount": "88621755",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2301",
+                    "s_name": "光寶科",
+                    "holding_percentage": "2.23",
+                    "holding_amount": "81320276",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2603",
+                    "s_name": "長榮",
+                    "holding_percentage": "4.01",
+                    "holding_amount": "65207520",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2449",
+                    "s_name": "京元電子",
+                    "holding_percentage": "1.96",
+                    "holding_amount": "62811294",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3231",
+                    "s_name": "緯創",
+                    "holding_percentage": "1.77",
+                    "holding_amount": "62020370",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3036",
+                    "s_name": "文曄",
+                    "holding_percentage": "1.81",
+                    "holding_amount": "59746057",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3711",
+                    "s_name": "日月光投控",
+                    "holding_percentage": "2.37",
+                    "holding_amount": "53240149",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4958",
+                    "s_name": "臻鼎-KY",
+                    "holding_percentage": "1.70",
+                    "holding_amount": "51474210",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2377",
+                    "s_name": "微星",
+                    "holding_percentage": "2.30",
+                    "holding_amount": "45559506",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2385",
+                    "s_name": "群光",
+                    "holding_percentage": "1.62",
+                    "holding_amount": "39314864",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2006",
+                    "s_name": "東和鋼鐵",
+                    "holding_percentage": "0.69",
+                    "holding_amount": "38897784",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6239",
+                    "s_name": "力成",
+                    "holding_percentage": "1.19",
+                    "holding_amount": "36351138",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3005",
+                    "s_name": "神基",
+                    "holding_percentage": "0.94",
+                    "holding_amount": "32886883",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2474",
+                    "s_name": "可成",
+                    "holding_percentage": "1.71",
+                    "holding_amount": "32622201",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2317",
+                    "s_name": "鴻海",
+                    "holding_percentage": "1.61",
+                    "holding_amount": "32477049",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2382",
+                    "s_name": "廣達",
+                    "holding_percentage": "2.47",
+                    "holding_amount": "31259183",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1319",
+                    "s_name": "東陽",
+                    "holding_percentage": "0.89",
+                    "holding_amount": "30473989",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2376",
+                    "s_name": "技嘉",
+                    "holding_percentage": "2.11",
+                    "holding_amount": "27508381",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3044",
+                    "s_name": "健鼎",
+                    "holding_percentage": "1.40",
+                    "holding_amount": "26084347",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6285",
+                    "s_name": "啟碁",
+                    "holding_percentage": "0.89",
+                    "holding_amount": "24966745",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3034",
+                    "s_name": "聯詠",
+                    "holding_percentage": "3.25",
+                    "holding_amount": "24412905",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5871",
+                    "s_name": "中租-KY",
+                    "holding_percentage": "0.72",
+                    "holding_amount": "23093965",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6176",
+                    "s_name": "瑞儀",
+                    "holding_percentage": "1.12",
+                    "holding_amount": "21822007",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2379",
+                    "s_name": "瑞昱",
+                    "holding_percentage": "3.14",
+                    "holding_amount": "21650959",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2357",
+                    "s_name": "華碩",
+                    "holding_percentage": "3.15",
+                    "holding_amount": "18672765",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2383",
+                    "s_name": "台光電",
+                    "holding_percentage": "2.44",
+                    "holding_amount": "14645358",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1477",
+                    "s_name": "聚陽",
+                    "holding_percentage": "1.17",
+                    "holding_amount": "13303677",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "9941",
+                    "s_name": "裕融",
+                    "holding_percentage": "0.42",
+                    "holding_amount": "12923614",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2454",
+                    "s_name": "聯發科",
+                    "holding_percentage": "2.79",
+                    "holding_amount": "7298458",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2542",
+                    "s_name": "興富發",
+                    "holding_percentage": "0.06",
+                    "holding_amount": "5459794",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4763",
+                    "s_name": "材料-KY",
+                    "holding_percentage": "0.98",
+                    "holding_amount": "4118169",
+                    "unit": "股"
+                }
+            ]
+        },
+        {
+            "etf_code": "00919",
+            "etf_name": "群益台灣精選高息",
+            "scraping_time": "2025-01-07 16:51:30",
+            "etf_holding": [
+                {
+                    "s_code": "2891",
+                    "s_name": "中信金",
+                    "holding_percentage": "9.89",
+                    "holding_amount": "771849000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2303",
+                    "s_name": "聯電",
+                    "holding_percentage": "9.64",
+                    "holding_amount": "682332000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2618",
+                    "s_name": "長榮航",
+                    "holding_percentage": "6.46",
+                    "holding_amount": "420044000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2889",
+                    "s_name": "國票金",
+                    "holding_percentage": "1.70",
+                    "holding_amount": "351764380",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6005",
+                    "s_name": "群益證",
+                    "holding_percentage": "1.57",
+                    "holding_amount": "177268000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5347",
+                    "s_name": "世界",
+                    "holding_percentage": "5.52",
+                    "holding_amount": "169696441",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2603",
+                    "s_name": "長榮",
+                    "holding_percentage": "9.91",
+                    "holding_amount": "132753000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2504",
+                    "s_name": "國產",
+                    "holding_percentage": "1.69",
+                    "holding_amount": "118000000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2809",
+                    "s_name": "京城銀",
+                    "holding_percentage": "1.86",
+                    "holding_amount": "111123000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2606",
+                    "s_name": "裕民",
+                    "holding_percentage": "1.40",
+                    "holding_amount": "74700000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6239",
+                    "s_name": "力成",
+                    "holding_percentage": "2.84",
+                    "holding_amount": "71509000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2637",
+                    "s_name": "慧洋-KY",
+                    "holding_percentage": "1.45",
+                    "holding_amount": "68080000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5522",
+                    "s_name": "遠雄",
+                    "holding_percentage": "1.61",
+                    "holding_amount": "66500000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3034",
+                    "s_name": "聯詠",
+                    "holding_percentage": "8.87",
+                    "holding_amount": "54965000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "8112",
+                    "s_name": "至上",
+                    "holding_percentage": "0.96",
+                    "holding_amount": "49806000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6176",
+                    "s_name": "瑞儀",
+                    "holding_percentage": "2.74",
+                    "holding_amount": "44283000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4915",
+                    "s_name": "致伸",
+                    "holding_percentage": "1.13",
+                    "holding_amount": "43972000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2451",
+                    "s_name": "創見",
+                    "holding_percentage": "1.13",
+                    "holding_amount": "39998000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2393",
+                    "s_name": "億光",
+                    "holding_percentage": "1.02",
+                    "holding_amount": "37700000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6278",
+                    "s_name": "台表科",
+                    "holding_percentage": "1.06",
+                    "holding_amount": "29239000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1442",
+                    "s_name": "名軒",
+                    "holding_percentage": "0.54",
+                    "holding_amount": "23200000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2454",
+                    "s_name": "聯發科",
+                    "holding_percentage": "10.52",
+                    "holding_amount": "22699000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5508",
+                    "s_name": "永信建",
+                    "holding_percentage": "1.00",
+                    "holding_amount": "21742000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2404",
+                    "s_name": "漢唐",
+                    "holding_percentage": "2.86",
+                    "holding_amount": "18009000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6121",
+                    "s_name": "新普",
+                    "holding_percentage": "2.22",
+                    "holding_amount": "17590000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "8299",
+                    "s_name": "群聯",
+                    "holding_percentage": "2.95",
+                    "holding_amount": "17461000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2348",
+                    "s_name": "海悅",
+                    "holding_percentage": "0.81",
+                    "holding_amount": "13000000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6691",
+                    "s_name": "洋基工程",
+                    "holding_percentage": "1.56",
+                    "holding_amount": "10575414",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5904",
+                    "s_name": "寶雅",
+                    "holding_percentage": "1.68",
+                    "holding_amount": "10493430",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3592",
+                    "s_name": "瑞鼎",
+                    "holding_percentage": "0.54",
+                    "holding_amount": "4250000",
+                    "unit": "股"
+                }
+            ]
+        },
+        {
+            "etf_code": "00929",
+            "etf_name": "復華台灣科技優息",
+            "scraping_time": "2025-01-07 16:51:41",
+            "etf_holding": [
+                {
+                    "s_code": "2303",
+                    "s_name": "聯華電子",
+                    "holding_percentage": "8.44",
+                    "holding_amount": "456013000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3045",
+                    "s_name": "台灣大哥",
+                    "holding_percentage": "8.17",
+                    "holding_amount": "169540000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4904",
+                    "s_name": "遠傳電信",
+                    "holding_percentage": "6.28",
+                    "holding_amount": "164097000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2353",
+                    "s_name": "宏碁股份",
+                    "holding_percentage": "2.29",
+                    "holding_amount": "138138000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3711",
+                    "s_name": "日月光投",
+                    "holding_percentage": "9.25",
+                    "holding_amount": "130739000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4938",
+                    "s_name": "和碩聯合",
+                    "holding_percentage": "4.80",
+                    "holding_amount": "121142000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2301",
+                    "s_name": "光寶科技",
+                    "holding_percentage": "4.64",
+                    "holding_amount": "106735000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5347",
+                    "s_name": "世界先進",
+                    "holding_percentage": "3.28",
+                    "holding_amount": "76829000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3702",
+                    "s_name": "大聯大控",
+                    "holding_percentage": "2.32",
+                    "holding_amount": "76107000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2347",
+                    "s_name": "聯強國際",
+                    "holding_percentage": "2.35",
+                    "holding_amount": "75612000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2449",
+                    "s_name": "京元電子",
+                    "holding_percentage": "2.76",
+                    "holding_amount": "55476000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2385",
+                    "s_name": "群光電子",
+                    "holding_percentage": "2.26",
+                    "holding_amount": "34445000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6239",
+                    "s_name": "力成科技",
+                    "holding_percentage": "1.79",
+                    "holding_amount": "34346000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6147",
+                    "s_name": "頎邦科技",
+                    "holding_percentage": "0.90",
+                    "holding_amount": "33408000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2474",
+                    "s_name": "可成科技",
+                    "holding_percentage": "2.57",
+                    "holding_amount": "30856000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3034",
+                    "s_name": "聯詠科技",
+                    "holding_percentage": "5.86",
+                    "holding_amount": "27689000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3005",
+                    "s_name": "神基控股",
+                    "holding_percentage": "1.26",
+                    "holding_amount": "27595000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5483",
+                    "s_name": "中美矽晶",
+                    "holding_percentage": "1.59",
+                    "holding_amount": "27344000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3044",
+                    "s_name": "健鼎科技",
+                    "holding_percentage": "2.03",
+                    "holding_amount": "23802000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "8112",
+                    "s_name": "至上電子",
+                    "holding_percentage": "0.59",
+                    "holding_amount": "23282000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6285",
+                    "s_name": "啟碁科技",
+                    "holding_percentage": "1.24",
+                    "holding_amount": "21869000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3264",
+                    "s_name": "欣銓科技",
+                    "holding_percentage": "0.53",
+                    "holding_amount": "21751000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6191",
+                    "s_name": "精成科技",
+                    "holding_percentage": "0.64",
+                    "holding_amount": "21137000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6176",
+                    "s_name": "瑞儀光電",
+                    "holding_percentage": "1.71",
+                    "holding_amount": "21029000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4915",
+                    "s_name": "致伸科技",
+                    "holding_percentage": "0.70",
+                    "holding_amount": "20798000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2393",
+                    "s_name": "億光電子",
+                    "holding_percentage": "0.70",
+                    "holding_amount": "19803000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2454",
+                    "s_name": "聯發科技",
+                    "holding_percentage": "11.03",
+                    "holding_amount": "18150000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3042",
+                    "s_name": "台灣晶技",
+                    "holding_percentage": "0.68",
+                    "holding_amount": "15309000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6269",
+                    "s_name": "台郡科技",
+                    "holding_percentage": "0.38",
+                    "holding_amount": "14187000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5388",
+                    "s_name": "中磊電子",
+                    "holding_percentage": "0.69",
+                    "holding_amount": "13394000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6278",
+                    "s_name": "台灣表面",
+                    "holding_percentage": "0.62",
+                    "holding_amount": "13020000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3010",
+                    "s_name": "華立企業",
+                    "holding_percentage": "0.59",
+                    "holding_amount": "11515000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3596",
+                    "s_name": "智易科技",
+                    "holding_percentage": "0.74",
+                    "holding_amount": "9852000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6189",
+                    "s_name": "豐藝電子",
+                    "holding_percentage": "0.32",
+                    "holding_amount": "9529000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2404",
+                    "s_name": "漢唐集成",
+                    "holding_percentage": "1.79",
+                    "holding_amount": "8621000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6121",
+                    "s_name": "新普科技",
+                    "holding_percentage": "1.38",
+                    "holding_amount": "8346000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3014",
+                    "s_name": "聯陽半導",
+                    "holding_percentage": "0.46",
+                    "holding_amount": "7334000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6414",
+                    "s_name": "樺漢科技",
+                    "holding_percentage": "0.77",
+                    "holding_amount": "6133000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4961",
+                    "s_name": "天鈺科技",
+                    "holding_percentage": "0.53",
+                    "holding_amount": "5380000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "8016",
+                    "s_name": "矽創電子",
+                    "holding_percentage": "0.50",
+                    "holding_amount": "5318000",
+                    "unit": "股"
+                }
+            ]
+        },
+        {
+            "etf_code": "006208",
+            "etf_name": "富邦台50",
+            "scraping_time": "2025-01-07 16:51:53",
+            "etf_holding": [
+                {
+                    "s_code": "2330",
+                    "s_name": "台積電",
+                    "holding_percentage": "58.70",
+                    "holding_amount": "100929064",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2891",
+                    "s_name": "中信金",
+                    "holding_percentage": "1.40",
+                    "holding_amount": "68483506",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2883",
+                    "s_name": "凱基金",
+                    "holding_percentage": "0.59",
+                    "holding_amount": "65838000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2884",
+                    "s_name": "玉山金",
+                    "holding_percentage": "0.90",
+                    "holding_amount": "63527433",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2317",
+                    "s_name": "鴻海",
+                    "holding_percentage": "4.76",
+                    "holding_amount": "49909679",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2890",
+                    "s_name": "永豐金",
+                    "holding_percentage": "0.59",
+                    "holding_amount": "49376439",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2886",
+                    "s_name": "兆豐金",
+                    "holding_percentage": "0.99",
+                    "holding_amount": "49282130",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2887",
+                    "s_name": "台新金",
+                    "holding_percentage": "0.45",
+                    "holding_amount": "49155500",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2303",
+                    "s_name": "聯電",
+                    "holding_percentage": "1.10",
+                    "holding_amount": "49154891",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2885",
+                    "s_name": "元大金",
+                    "holding_percentage": "0.87",
+                    "holding_amount": "47732045",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2002",
+                    "s_name": "中鋼",
+                    "holding_percentage": "0.47",
+                    "holding_amount": "47332307",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2892",
+                    "s_name": "第一金",
+                    "holding_percentage": "0.63",
+                    "holding_amount": "44157527",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5880",
+                    "s_name": "合庫金",
+                    "holding_percentage": "0.54",
+                    "holding_amount": "42426262",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2882",
+                    "s_name": "國泰金",
+                    "holding_percentage": "1.37",
+                    "holding_amount": "38500200",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2880",
+                    "s_name": "華南金",
+                    "holding_percentage": "0.53",
+                    "holding_amount": "38147690",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2881",
+                    "s_name": "富邦金",
+                    "holding_percentage": "1.62",
+                    "holding_amount": "34001799",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1101",
+                    "s_name": "台泥",
+                    "holding_percentage": "0.46",
+                    "holding_amount": "27790835",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1303",
+                    "s_name": "南亞",
+                    "holding_percentage": "0.35",
+                    "holding_amount": "21718502",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1216",
+                    "s_name": "統一",
+                    "holding_percentage": "0.84",
+                    "holding_amount": "20051765",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2412",
+                    "s_name": "中華電",
+                    "holding_percentage": "1.02",
+                    "holding_amount": "15908072",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1301",
+                    "s_name": "台塑",
+                    "holding_percentage": "0.29",
+                    "holding_amount": "15602117",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5876",
+                    "s_name": "上海商銀",
+                    "holding_percentage": "0.33",
+                    "holding_amount": "15600359",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1326",
+                    "s_name": "台化",
+                    "holding_percentage": "0.21",
+                    "holding_amount": "14289564",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3711",
+                    "s_name": "日月光投控",
+                    "holding_percentage": "1.16",
+                    "holding_amount": "13503577",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3231",
+                    "s_name": "緯創",
+                    "holding_percentage": "0.63",
+                    "holding_amount": "11376000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2382",
+                    "s_name": "廣達",
+                    "holding_percentage": "1.69",
+                    "holding_amount": "11105301",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2308",
+                    "s_name": "台達電",
+                    "holding_percentage": "1.96",
+                    "holding_amount": "9035581",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4938",
+                    "s_name": "和碩",
+                    "holding_percentage": "0.41",
+                    "holding_amount": "8542000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2301",
+                    "s_name": "光寶科",
+                    "holding_percentage": "0.44",
+                    "holding_amount": "8340000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4904",
+                    "s_name": "遠傳",
+                    "holding_percentage": "0.34",
+                    "holding_amount": "7394506",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2609",
+                    "s_name": "陽明",
+                    "holding_percentage": "0.29",
+                    "holding_amount": "7306000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5871",
+                    "s_name": "中租-KY",
+                    "holding_percentage": "0.38",
+                    "holding_amount": "6298838",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3045",
+                    "s_name": "台灣大",
+                    "holding_percentage": "0.36",
+                    "holding_amount": "6202368",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2454",
+                    "s_name": "聯發科",
+                    "holding_percentage": "4.56",
+                    "holding_amount": "6194042",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6505",
+                    "s_name": "台塑化",
+                    "holding_percentage": "0.11",
+                    "holding_amount": "5709203",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3037",
+                    "s_name": "欣興",
+                    "holding_percentage": "0.43",
+                    "holding_amount": "5436000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2603",
+                    "s_name": "長榮",
+                    "holding_percentage": "0.50",
+                    "holding_amount": "4246000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2357",
+                    "s_name": "華碩",
+                    "holding_percentage": "0.96",
+                    "holding_amount": "2949657",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3034",
+                    "s_name": "聯詠",
+                    "holding_percentage": "0.61",
+                    "holding_amount": "2393698",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2912",
+                    "s_name": "統一超",
+                    "holding_percentage": "0.30",
+                    "holding_amount": "2189576",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2345",
+                    "s_name": "智邦",
+                    "holding_percentage": "0.84",
+                    "holding_amount": "2098000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2379",
+                    "s_name": "瑞昱",
+                    "holding_percentage": "0.56",
+                    "holding_amount": "1988728",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2327",
+                    "s_name": "國巨",
+                    "holding_percentage": "0.57",
+                    "holding_amount": "1943432",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2395",
+                    "s_name": "研華",
+                    "holding_percentage": "0.35",
+                    "holding_amount": "1914538",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2207",
+                    "s_name": "和泰車",
+                    "holding_percentage": "0.44",
+                    "holding_amount": "1360044",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3017",
+                    "s_name": "奇鋐",
+                    "holding_percentage": "0.43",
+                    "holding_amount": "1322000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6446",
+                    "s_name": "藥華藥",
+                    "holding_percentage": "0.37",
+                    "holding_amount": "1069000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6669",
+                    "s_name": "緯穎",
+                    "holding_percentage": "0.60",
+                    "holding_amount": "432000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3008",
+                    "s_name": "大立光",
+                    "holding_percentage": "0.55",
+                    "holding_amount": "395468",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3661",
+                    "s_name": "世芯-KY",
+                    "holding_percentage": "0.52",
+                    "holding_amount": "322000",
+                    "unit": "股"
+                }
+            ]
+        },
+        {
+            "etf_code": "00940",
+            "etf_name": "元大台灣價值高息",
+            "scraping_time": "2025-01-07 16:52:04",
+            "etf_holding": [
+                {
+                    "s_code": "2610",
+                    "s_name": "華航",
+                    "holding_percentage": "3.14",
+                    "holding_amount": "186154000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2618",
+                    "s_name": "長榮航",
+                    "holding_percentage": "4.39",
+                    "holding_amount": "144096000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2890",
+                    "s_name": "永豐金",
+                    "holding_percentage": "2.10",
+                    "holding_amount": "141153025",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2891",
+                    "s_name": "中信金",
+                    "holding_percentage": "3.40",
+                    "holding_amount": "133724000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2892",
+                    "s_name": "第一金",
+                    "holding_percentage": "2.18",
+                    "holding_amount": "121772360",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1402",
+                    "s_name": "遠東新",
+                    "holding_percentage": "2.04",
+                    "holding_amount": "98533000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2303",
+                    "s_name": "聯電",
+                    "holding_percentage": "2.71",
+                    "holding_amount": "96788000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "9904",
+                    "s_name": "寶成",
+                    "holding_percentage": "2.00",
+                    "holding_amount": "82871000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2834",
+                    "s_name": "臺企銀",
+                    "holding_percentage": "0.70",
+                    "holding_amount": "71714000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1504",
+                    "s_name": "東元",
+                    "holding_percentage": "2.18",
+                    "holding_amount": "63418000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3702",
+                    "s_name": "大聯大",
+                    "holding_percentage": "2.36",
+                    "holding_amount": "51221000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2504",
+                    "s_name": "國產",
+                    "holding_percentage": "1.25",
+                    "holding_amount": "44173000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4938",
+                    "s_name": "和碩",
+                    "holding_percentage": "2.61",
+                    "holding_amount": "43507000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2347",
+                    "s_name": "聯強",
+                    "holding_percentage": "1.96",
+                    "holding_amount": "41746000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2603",
+                    "s_name": "長榮",
+                    "holding_percentage": "6.13",
+                    "holding_amount": "41414000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2915",
+                    "s_name": "潤泰全",
+                    "holding_percentage": "1.40",
+                    "holding_amount": "30657000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5483",
+                    "s_name": "中美晶",
+                    "holding_percentage": "2.64",
+                    "holding_amount": "30048000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2881",
+                    "s_name": "富邦金",
+                    "holding_percentage": "1.72",
+                    "holding_amount": "29058000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2385",
+                    "s_name": "群光",
+                    "holding_percentage": "2.79",
+                    "holding_amount": "28095000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3036",
+                    "s_name": "文曄",
+                    "holding_percentage": "1.64",
+                    "holding_amount": "22526000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6239",
+                    "s_name": "力成",
+                    "holding_percentage": "1.76",
+                    "holding_amount": "22429000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2474",
+                    "s_name": "可成",
+                    "holding_percentage": "2.74",
+                    "holding_amount": "21759000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1319",
+                    "s_name": "東陽",
+                    "holding_percentage": "1.46",
+                    "holding_amount": "20710000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3044",
+                    "s_name": "健鼎",
+                    "holding_percentage": "2.21",
+                    "holding_amount": "17206000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3711",
+                    "s_name": "日月光投控",
+                    "holding_percentage": "1.77",
+                    "holding_amount": "16543000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4915",
+                    "s_name": "致伸",
+                    "holding_percentage": "0.81",
+                    "holding_amount": "15927000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6257",
+                    "s_name": "矽格",
+                    "holding_percentage": "0.71",
+                    "holding_amount": "15743000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6285",
+                    "s_name": "啟碁",
+                    "holding_percentage": "1.29",
+                    "holding_amount": "15070000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2458",
+                    "s_name": "義隆",
+                    "holding_percentage": "1.43",
+                    "holding_amount": "14284000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3264",
+                    "s_name": "欣銓",
+                    "holding_percentage": "0.51",
+                    "holding_amount": "13743000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6488",
+                    "s_name": "環球晶",
+                    "holding_percentage": "3.36",
+                    "holding_amount": "13525000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2393",
+                    "s_name": "億光",
+                    "holding_percentage": "0.66",
+                    "holding_amount": "12268000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2382",
+                    "s_name": "廣達",
+                    "holding_percentage": "2.20",
+                    "holding_amount": "11595000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3034",
+                    "s_name": "聯詠",
+                    "holding_percentage": "3.44",
+                    "holding_amount": "10745000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "8299",
+                    "s_name": "群聯",
+                    "holding_percentage": "3.53",
+                    "holding_amount": "10562000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3042",
+                    "s_name": "晶技",
+                    "holding_percentage": "0.67",
+                    "holding_amount": "9930000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2439",
+                    "s_name": "美律",
+                    "holding_percentage": "0.65",
+                    "holding_amount": "9273000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2357",
+                    "s_name": "華碩",
+                    "holding_percentage": "3.68",
+                    "holding_amount": "9064000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6176",
+                    "s_name": "瑞儀",
+                    "holding_percentage": "1.01",
+                    "holding_amount": "8219000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2548",
+                    "s_name": "華固",
+                    "holding_percentage": "0.59",
+                    "holding_amount": "7913000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6278",
+                    "s_name": "台表科",
+                    "holding_percentage": "0.54",
+                    "holding_amount": "7614000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2379",
+                    "s_name": "瑞昱",
+                    "holding_percentage": "2.64",
+                    "holding_amount": "7595000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3376",
+                    "s_name": "新日興",
+                    "holding_percentage": "0.93",
+                    "holding_amount": "7173206",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2404",
+                    "s_name": "漢唐",
+                    "holding_percentage": "1.65",
+                    "holding_amount": "5249000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6414",
+                    "s_name": "樺漢",
+                    "holding_percentage": "0.97",
+                    "holding_amount": "5108000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2454",
+                    "s_name": "聯發科",
+                    "holding_percentage": "4.14",
+                    "holding_amount": "4504000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4961",
+                    "s_name": "天鈺",
+                    "holding_percentage": "0.66",
+                    "holding_amount": "4398000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3406",
+                    "s_name": "玉晶光",
+                    "holding_percentage": "1.36",
+                    "holding_amount": "4351000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3413",
+                    "s_name": "京鼎",
+                    "holding_percentage": "0.72",
+                    "holding_amount": "3548000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3293",
+                    "s_name": "鈊象",
+                    "holding_percentage": "1.69",
+                    "holding_amount": "2661000",
+                    "unit": "股"
+                }
+            ]
+        },
+        {
+            "etf_code": "00713",
+            "etf_name": "元大台灣高息低波",
+            "scraping_time": "2025-01-07 16:52:14",
+            "etf_holding": [
+                {
+                    "s_code": "2887",
+                    "s_name": "台新金",
+                    "holding_percentage": "3.72",
+                    "holding_amount": "250795000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2880",
+                    "s_name": "華南金",
+                    "holding_percentage": "3.40",
+                    "holding_amount": "150919450",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1216",
+                    "s_name": "統一",
+                    "holding_percentage": "9.40",
+                    "holding_amount": "138844000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4904",
+                    "s_name": "遠傳",
+                    "holding_percentage": "8.97",
+                    "holding_amount": "119569000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3045",
+                    "s_name": "台灣大",
+                    "holding_percentage": "9.68",
+                    "holding_amount": "102406000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2884",
+                    "s_name": "玉山金",
+                    "holding_percentage": "2.22",
+                    "holding_amount": "97312000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2891",
+                    "s_name": "中信金",
+                    "holding_percentage": "3.15",
+                    "holding_amount": "95611000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2883",
+                    "s_name": "凱基金",
+                    "holding_percentage": "1.30",
+                    "holding_amount": "89170000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2845",
+                    "s_name": "遠東銀",
+                    "holding_percentage": "0.97",
+                    "holding_amount": "87133162",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6005",
+                    "s_name": "群益證",
+                    "holding_percentage": "1.18",
+                    "holding_amount": "51615000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2890",
+                    "s_name": "永豐金",
+                    "holding_percentage": "0.98",
+                    "holding_amount": "50727000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5876",
+                    "s_name": "上海商銀",
+                    "holding_percentage": "1.62",
+                    "holding_amount": "47726000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2903",
+                    "s_name": "遠百",
+                    "holding_percentage": "0.80",
+                    "holding_amount": "43157000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2885",
+                    "s_name": "元大金",
+                    "holding_percentage": "1.03",
+                    "holding_amount": "34789940",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2006",
+                    "s_name": "東和鋼鐵",
+                    "holding_percentage": "1.77",
+                    "holding_amount": "31764000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2347",
+                    "s_name": "聯強",
+                    "holding_percentage": "1.91",
+                    "holding_amount": "31397000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "9904",
+                    "s_name": "寶成",
+                    "holding_percentage": "0.90",
+                    "holding_amount": "28667000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2618",
+                    "s_name": "長榮航",
+                    "holding_percentage": "1.12",
+                    "holding_amount": "28385000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2912",
+                    "s_name": "統一超",
+                    "holding_percentage": "6.08",
+                    "holding_amount": "27395000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2206",
+                    "s_name": "三陽工業",
+                    "holding_percentage": "1.41",
+                    "holding_amount": "24247000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2855",
+                    "s_name": "統一證",
+                    "holding_percentage": "0.48",
+                    "holding_amount": "21951000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2606",
+                    "s_name": "裕民",
+                    "holding_percentage": "0.95",
+                    "holding_amount": "19788000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2303",
+                    "s_name": "聯電",
+                    "holding_percentage": "0.69",
+                    "holding_amount": "18897000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "9917",
+                    "s_name": "中保科",
+                    "holding_percentage": "1.94",
+                    "holding_amount": "18356000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "9933",
+                    "s_name": "中鼎",
+                    "holding_percentage": "0.56",
+                    "holding_amount": "16984000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2015",
+                    "s_name": "豐興",
+                    "holding_percentage": "0.92",
+                    "holding_amount": "16423000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4938",
+                    "s_name": "和碩",
+                    "holding_percentage": "1.27",
+                    "holding_amount": "16386000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "9939",
+                    "s_name": "宏全",
+                    "holding_percentage": "1.80",
+                    "holding_amount": "14788597",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1102",
+                    "s_name": "亞泥",
+                    "holding_percentage": "0.45",
+                    "holding_amount": "13300000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1215",
+                    "s_name": "卜蜂",
+                    "holding_percentage": "0.96",
+                    "holding_amount": "12431000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "8112",
+                    "s_name": "至上",
+                    "holding_percentage": "0.61",
+                    "holding_amount": "12376000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1210",
+                    "s_name": "大成",
+                    "holding_percentage": "0.52",
+                    "holding_amount": "12087000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2211",
+                    "s_name": "長榮鋼",
+                    "holding_percentage": "0.90",
+                    "holding_amount": "11949000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2850",
+                    "s_name": "新產",
+                    "holding_percentage": "1.03",
+                    "holding_amount": "11794000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2441",
+                    "s_name": "超豐",
+                    "holding_percentage": "0.56",
+                    "holding_amount": "11266000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2393",
+                    "s_name": "億光",
+                    "holding_percentage": "0.76",
+                    "holding_amount": "10977000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4915",
+                    "s_name": "致伸",
+                    "holding_percentage": "0.68",
+                    "holding_amount": "10340000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6176",
+                    "s_name": "瑞儀",
+                    "holding_percentage": "1.63",
+                    "holding_amount": "10252000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6278",
+                    "s_name": "台表科",
+                    "holding_percentage": "0.76",
+                    "holding_amount": "8165000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5388",
+                    "s_name": "中磊",
+                    "holding_percentage": "0.80",
+                    "holding_amount": "7947000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3010",
+                    "s_name": "華立",
+                    "holding_percentage": "0.69",
+                    "holding_amount": "6784000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6239",
+                    "s_name": "力成",
+                    "holding_percentage": "0.68",
+                    "holding_amount": "6626000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6691",
+                    "s_name": "洋基工程",
+                    "holding_percentage": "2.27",
+                    "holding_amount": "6000400",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5434",
+                    "s_name": "崇越",
+                    "holding_percentage": "1.32",
+                    "holding_amount": "5381678",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3596",
+                    "s_name": "智易",
+                    "holding_percentage": "0.76",
+                    "holding_amount": "5103000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2597",
+                    "s_name": "潤弘",
+                    "holding_percentage": "0.54",
+                    "holding_amount": "4208000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1477",
+                    "s_name": "聚陽",
+                    "holding_percentage": "1.01",
+                    "holding_amount": "3668620",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4766",
+                    "s_name": "南寶",
+                    "holding_percentage": "0.99",
+                    "holding_amount": "3662000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2385",
+                    "s_name": "群光",
+                    "holding_percentage": "0.45",
+                    "holding_amount": "3525000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6670",
+                    "s_name": "復盛應用",
+                    "holding_percentage": "0.89",
+                    "holding_amount": "3230000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6196",
+                    "s_name": "帆宣",
+                    "holding_percentage": "0.35",
+                    "holding_amount": "2820000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2454",
+                    "s_name": "聯發科",
+                    "holding_percentage": "3.28",
+                    "holding_amount": "2754000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3044",
+                    "s_name": "健鼎",
+                    "holding_percentage": "0.38",
+                    "holding_amount": "2259000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2404",
+                    "s_name": "漢唐",
+                    "holding_percentage": "0.81",
+                    "holding_amount": "1994000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3034",
+                    "s_name": "聯詠",
+                    "holding_percentage": "0.72",
+                    "holding_amount": "1725000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2451",
+                    "s_name": "創見",
+                    "holding_percentage": "0.01",
+                    "holding_amount": "196000",
+                    "unit": "股"
+                }
+            ]
+        }
+    ],
+    "2025/01/07": [
+        {
+            "etf_code": "0050",
+            "etf_name": "元大台灣50",
+            "scraping_time": "2025-01-07 19:36:59",
+            "etf_holding": [
+                {
+                    "s_code": "2330",
+                    "s_name": "台積電",
+                    "holding_percentage": "58.46",
+                    "holding_amount": "234165045",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2891",
+                    "s_name": "中信金",
+                    "holding_percentage": "1.38",
+                    "holding_amount": "159069767",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2883",
+                    "s_name": "凱基金",
+                    "holding_percentage": "0.59",
+                    "holding_amount": "152926867",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2884",
+                    "s_name": "玉山金",
+                    "holding_percentage": "0.88",
+                    "holding_amount": "147559065",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2890",
+                    "s_name": "永豐金",
+                    "holding_percentage": "0.58",
+                    "holding_amount": "114716855",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2886",
+                    "s_name": "兆豐金",
+                    "holding_percentage": "0.97",
+                    "holding_amount": "114470446",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2887",
+                    "s_name": "台新金",
+                    "holding_percentage": "0.45",
+                    "holding_amount": "114190594",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2317",
+                    "s_name": "鴻海",
+                    "holding_percentage": "4.79",
+                    "holding_amount": "114167454",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2303",
+                    "s_name": "聯電",
+                    "holding_percentage": "1.07",
+                    "holding_amount": "113974694",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2885",
+                    "s_name": "元大金",
+                    "holding_percentage": "0.88",
+                    "holding_amount": "110902921",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2002",
+                    "s_name": "中鋼",
+                    "holding_percentage": "0.46",
+                    "holding_amount": "109740619",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2892",
+                    "s_name": "第一金",
+                    "holding_percentage": "0.62",
+                    "holding_amount": "102584728",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5880",
+                    "s_name": "合庫金",
+                    "holding_percentage": "0.53",
+                    "holding_amount": "98576270",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2882",
+                    "s_name": "國泰金",
+                    "holding_percentage": "1.37",
+                    "holding_amount": "89427395",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2880",
+                    "s_name": "華南金",
+                    "holding_percentage": "0.52",
+                    "holding_amount": "88642198",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2881",
+                    "s_name": "富邦金",
+                    "holding_percentage": "1.60",
+                    "holding_amount": "78979063",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1101",
+                    "s_name": "台泥",
+                    "holding_percentage": "0.45",
+                    "holding_amount": "64553950",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1303",
+                    "s_name": "南亞",
+                    "holding_percentage": "0.33",
+                    "holding_amount": "50022877",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1216",
+                    "s_name": "統一",
+                    "holding_percentage": "0.82",
+                    "holding_amount": "46575194",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2412",
+                    "s_name": "中華電",
+                    "holding_percentage": "1.00",
+                    "holding_amount": "36951971",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5876",
+                    "s_name": "上海商銀",
+                    "holding_percentage": "0.32",
+                    "holding_amount": "36237890",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1301",
+                    "s_name": "台塑",
+                    "holding_percentage": "0.27",
+                    "holding_amount": "35937187",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1326",
+                    "s_name": "台化",
+                    "holding_percentage": "0.19",
+                    "holding_amount": "32913070",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3711",
+                    "s_name": "日月光投控",
+                    "holding_percentage": "1.21",
+                    "holding_amount": "31368581",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2382",
+                    "s_name": "廣達",
+                    "holding_percentage": "1.73",
+                    "holding_amount": "26502815",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3231",
+                    "s_name": "緯創",
+                    "holding_percentage": "0.63",
+                    "holding_amount": "26424512",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4938",
+                    "s_name": "和碩",
+                    "holding_percentage": "0.46",
+                    "holding_amount": "21690130",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2308",
+                    "s_name": "台達電",
+                    "holding_percentage": "2.00",
+                    "holding_amount": "20989339",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2301",
+                    "s_name": "光寶科",
+                    "holding_percentage": "0.43",
+                    "holding_amount": "19372140",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4904",
+                    "s_name": "遠傳",
+                    "holding_percentage": "0.34",
+                    "holding_amount": "17175252",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2609",
+                    "s_name": "陽明",
+                    "holding_percentage": "0.30",
+                    "holding_amount": "16920995",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2454",
+                    "s_name": "聯發科",
+                    "holding_percentage": "4.77",
+                    "holding_amount": "14477070",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3045",
+                    "s_name": "台灣大",
+                    "holding_percentage": "0.35",
+                    "holding_amount": "14407607",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6505",
+                    "s_name": "台塑化",
+                    "holding_percentage": "0.10",
+                    "holding_amount": "13149202",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3037",
+                    "s_name": "欣興",
+                    "holding_percentage": "0.43",
+                    "holding_amount": "12626914",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2603",
+                    "s_name": "長榮",
+                    "holding_percentage": "0.50",
+                    "holding_amount": "9865129",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5871",
+                    "s_name": "中租-KY",
+                    "holding_percentage": "0.24",
+                    "holding_amount": "9325604",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2357",
+                    "s_name": "華碩",
+                    "holding_percentage": "1.04",
+                    "holding_amount": "7235986",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3034",
+                    "s_name": "聯詠",
+                    "holding_percentage": "0.62",
+                    "holding_amount": "5560405",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2912",
+                    "s_name": "統一超",
+                    "holding_percentage": "0.29",
+                    "holding_amount": "5088629",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2345",
+                    "s_name": "智邦",
+                    "holding_percentage": "0.82",
+                    "holding_amount": "4874705",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2379",
+                    "s_name": "瑞昱",
+                    "holding_percentage": "0.55",
+                    "holding_amount": "4620725",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2327",
+                    "s_name": "國巨",
+                    "holding_percentage": "0.56",
+                    "holding_amount": "4515535",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2395",
+                    "s_name": "研華",
+                    "holding_percentage": "0.35",
+                    "holding_amount": "4447906",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2207",
+                    "s_name": "和泰車",
+                    "holding_percentage": "0.43",
+                    "holding_amount": "3160953",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3017",
+                    "s_name": "奇鋐",
+                    "holding_percentage": "0.43",
+                    "holding_amount": "3069611",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6446",
+                    "s_name": "藥華藥",
+                    "holding_percentage": "0.40",
+                    "holding_amount": "2484804",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6669",
+                    "s_name": "緯穎",
+                    "holding_percentage": "0.61",
+                    "holding_amount": "1004000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3008",
+                    "s_name": "大立光",
+                    "holding_percentage": "0.54",
+                    "holding_amount": "920673",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3661",
+                    "s_name": "世芯-KY",
+                    "holding_percentage": "0.53",
+                    "holding_amount": "748216",
+                    "unit": "股"
+                }
+            ]
+        },
+        {
+            "etf_code": "00878",
+            "etf_name": "國泰永續高股息",
+            "scraping_time": "2025-01-07 19:37:11",
+            "etf_holding": [
+                {
+                    "s_code": "2890",
+                    "s_name": "永豐金",
+                    "holding_percentage": "2.61",
+                    "holding_amount": "434355182",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2324",
+                    "s_name": "仁寶",
+                    "holding_percentage": "3.47",
+                    "holding_amount": "362347000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2885",
+                    "s_name": "元大金",
+                    "holding_percentage": "3.27",
+                    "holding_amount": "349976599",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2303",
+                    "s_name": "聯電",
+                    "holding_percentage": "3.65",
+                    "holding_amount": "330887000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2892",
+                    "s_name": "第一金",
+                    "holding_percentage": "2.37",
+                    "holding_amount": "329463703",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2891",
+                    "s_name": "中信金",
+                    "holding_percentage": "3.23",
+                    "holding_amount": "316423000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1402",
+                    "s_name": "遠東新",
+                    "holding_percentage": "2.49",
+                    "holding_amount": "312938000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1101",
+                    "s_name": "台泥",
+                    "holding_percentage": "2.35",
+                    "holding_amount": "286380748",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2886",
+                    "s_name": "兆豐金",
+                    "holding_percentage": "2.64",
+                    "holding_amount": "262708964",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5876",
+                    "s_name": "上海商銀",
+                    "holding_percentage": "2.74",
+                    "holding_amount": "259787590",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2356",
+                    "s_name": "英業達",
+                    "holding_percentage": "3.20",
+                    "holding_amount": "237508000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2105",
+                    "s_name": "正新",
+                    "holding_percentage": "2.55",
+                    "holding_amount": "200118000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2882",
+                    "s_name": "國泰金",
+                    "holding_percentage": "3.06",
+                    "holding_amount": "169782486",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3702",
+                    "s_name": "大聯大",
+                    "holding_percentage": "2.75",
+                    "holding_amount": "148742000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5347",
+                    "s_name": "世界先進",
+                    "holding_percentage": "3.47",
+                    "holding_amount": "130486442",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4904",
+                    "s_name": "遠傳",
+                    "holding_percentage": "2.92",
+                    "holding_amount": "126604000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2301",
+                    "s_name": "光寶科",
+                    "holding_percentage": "3.27",
+                    "holding_amount": "123396000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1216",
+                    "s_name": "統一",
+                    "holding_percentage": "2.40",
+                    "holding_amount": "115541000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2881",
+                    "s_name": "富邦金",
+                    "holding_percentage": "2.57",
+                    "holding_amount": "107404800",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3231",
+                    "s_name": "緯創",
+                    "holding_percentage": "3.00",
+                    "holding_amount": "107132000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3045",
+                    "s_name": "台灣大",
+                    "holding_percentage": "2.76",
+                    "holding_amount": "94901000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3711",
+                    "s_name": "日月光投控",
+                    "holding_percentage": "4.05",
+                    "holding_amount": "88697000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2412",
+                    "s_name": "中華電",
+                    "holding_percentage": "2.60",
+                    "holding_amount": "81201000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2377",
+                    "s_name": "微星",
+                    "holding_percentage": "3.39",
+                    "holding_amount": "69858000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3034",
+                    "s_name": "聯詠",
+                    "holding_percentage": "5.77",
+                    "holding_amount": "43968000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2376",
+                    "s_name": "技嘉",
+                    "holding_percentage": "3.08",
+                    "holding_amount": "41686000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2382",
+                    "s_name": "廣達",
+                    "holding_percentage": "3.15",
+                    "holding_amount": "40901000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2357",
+                    "s_name": "華碩",
+                    "holding_percentage": "4.94",
+                    "holding_amount": "29217000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2379",
+                    "s_name": "瑞昱",
+                    "holding_percentage": "3.90",
+                    "holding_amount": "27541000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2454",
+                    "s_name": "聯發科",
+                    "holding_percentage": "5.50",
+                    "holding_amount": "14143000",
+                    "unit": "股"
+                }
+            ]
+        },
+        {
+            "etf_code": "0056",
+            "etf_name": "元大高股息",
+            "scraping_time": "2025-01-07 19:37:26",
+            "etf_holding": [
+                {
+                    "s_code": "2890",
+                    "s_name": "永豐金",
+                    "holding_percentage": "2.30",
+                    "holding_amount": "374325387",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2880",
+                    "s_name": "華南金",
+                    "holding_percentage": "2.44",
+                    "holding_amount": "342087960",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2891",
+                    "s_name": "中信金",
+                    "holding_percentage": "3.17",
+                    "holding_amount": "302888221",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2885",
+                    "s_name": "元大金",
+                    "holding_percentage": "2.42",
+                    "holding_amount": "254031646",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2303",
+                    "s_name": "聯電",
+                    "holding_percentage": "2.74",
+                    "holding_amount": "243054744",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2886",
+                    "s_name": "兆豐金",
+                    "holding_percentage": "2.43",
+                    "holding_amount": "236879321",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2324",
+                    "s_name": "仁寶",
+                    "holding_percentage": "2.31",
+                    "holding_amount": "235867662",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2618",
+                    "s_name": "長榮航",
+                    "holding_percentage": "2.85",
+                    "holding_amount": "227857627",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1102",
+                    "s_name": "亞泥",
+                    "holding_percentage": "2.07",
+                    "holding_amount": "191988868",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2105",
+                    "s_name": "正新",
+                    "holding_percentage": "2.29",
+                    "holding_amount": "175470525",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5876",
+                    "s_name": "上海商銀",
+                    "holding_percentage": "1.88",
+                    "holding_amount": "174212138",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2356",
+                    "s_name": "英業達",
+                    "holding_percentage": "2.24",
+                    "holding_amount": "162854233",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2353",
+                    "s_name": "宏碁",
+                    "holding_percentage": "1.61",
+                    "holding_amount": "157974205",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1303",
+                    "s_name": "南亞",
+                    "holding_percentage": "1.20",
+                    "holding_amount": "150182448",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2609",
+                    "s_name": "陽明",
+                    "holding_percentage": "2.60",
+                    "holding_amount": "123406026",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2027",
+                    "s_name": "大成鋼",
+                    "holding_percentage": "0.92",
+                    "holding_amount": "116058363",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1504",
+                    "s_name": "東元",
+                    "holding_percentage": "1.55",
+                    "holding_amount": "108843150",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4938",
+                    "s_name": "和碩",
+                    "holding_percentage": "2.50",
+                    "holding_amount": "98763451",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3702",
+                    "s_name": "大聯大",
+                    "holding_percentage": "1.72",
+                    "holding_amount": "90893419",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2347",
+                    "s_name": "聯強",
+                    "holding_percentage": "1.71",
+                    "holding_amount": "88621755",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2301",
+                    "s_name": "光寶科",
+                    "holding_percentage": "2.21",
+                    "holding_amount": "81634301",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2603",
+                    "s_name": "長榮",
+                    "holding_percentage": "3.99",
+                    "holding_amount": "65458095",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2449",
+                    "s_name": "京元電子",
+                    "holding_percentage": "2.01",
+                    "holding_amount": "63054369",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3231",
+                    "s_name": "緯創",
+                    "holding_percentage": "1.78",
+                    "holding_amount": "62260445",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3036",
+                    "s_name": "文曄",
+                    "holding_percentage": "1.82",
+                    "holding_amount": "59977282",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3711",
+                    "s_name": "日月光投控",
+                    "holding_percentage": "2.49",
+                    "holding_amount": "53446174",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4958",
+                    "s_name": "臻鼎-KY",
+                    "holding_percentage": "1.68",
+                    "holding_amount": "51673410",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2377",
+                    "s_name": "微星",
+                    "holding_percentage": "2.27",
+                    "holding_amount": "45735831",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2385",
+                    "s_name": "群光",
+                    "holding_percentage": "1.60",
+                    "holding_amount": "39466064",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2006",
+                    "s_name": "東和鋼鐵",
+                    "holding_percentage": "0.68",
+                    "holding_amount": "38897784",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6239",
+                    "s_name": "力成",
+                    "holding_percentage": "1.19",
+                    "holding_amount": "36351138",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2474",
+                    "s_name": "可成",
+                    "holding_percentage": "1.78",
+                    "holding_amount": "33559176",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3005",
+                    "s_name": "神基",
+                    "holding_percentage": "0.95",
+                    "holding_amount": "33014158",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2317",
+                    "s_name": "鴻海",
+                    "holding_percentage": "1.65",
+                    "holding_amount": "32608974",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2382",
+                    "s_name": "廣達",
+                    "holding_percentage": "2.47",
+                    "holding_amount": "31377608",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1319",
+                    "s_name": "東陽",
+                    "holding_percentage": "0.91",
+                    "holding_amount": "30473989",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2376",
+                    "s_name": "技嘉",
+                    "holding_percentage": "2.09",
+                    "holding_amount": "27614131",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3044",
+                    "s_name": "健鼎",
+                    "holding_percentage": "1.38",
+                    "holding_amount": "26193997",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6285",
+                    "s_name": "啟碁",
+                    "holding_percentage": "0.88",
+                    "holding_amount": "24966745",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3034",
+                    "s_name": "聯詠",
+                    "holding_percentage": "3.29",
+                    "holding_amount": "24508305",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5871",
+                    "s_name": "中租-KY",
+                    "holding_percentage": "0.72",
+                    "holding_amount": "23176465",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6176",
+                    "s_name": "瑞儀",
+                    "holding_percentage": "1.11",
+                    "holding_amount": "21822007",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2379",
+                    "s_name": "瑞昱",
+                    "holding_percentage": "3.15",
+                    "holding_amount": "21734734",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2357",
+                    "s_name": "華碩",
+                    "holding_percentage": "3.24",
+                    "holding_amount": "18743865",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2383",
+                    "s_name": "台光電",
+                    "holding_percentage": "2.36",
+                    "holding_amount": "14701983",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1477",
+                    "s_name": "聚陽",
+                    "holding_percentage": "1.17",
+                    "holding_amount": "13355127",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "9941",
+                    "s_name": "裕融",
+                    "holding_percentage": "0.41",
+                    "holding_amount": "12969364",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2454",
+                    "s_name": "聯發科",
+                    "holding_percentage": "2.91",
+                    "holding_amount": "7326658",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2542",
+                    "s_name": "興富發",
+                    "holding_percentage": "0.06",
+                    "holding_amount": "5480719",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4763",
+                    "s_name": "材料-KY",
+                    "holding_percentage": "1.01",
+                    "holding_amount": "4260619",
+                    "unit": "股"
+                }
+            ]
+        },
+        {
+            "etf_code": "00919",
+            "etf_name": "群益台灣精選高息",
+            "scraping_time": "2025-01-07 19:37:41",
+            "etf_holding": [
+                {
+                    "s_code": "2891",
+                    "s_name": "中信金",
+                    "holding_percentage": "9.80",
+                    "holding_amount": "771849000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2303",
+                    "s_name": "聯電",
+                    "holding_percentage": "9.36",
+                    "holding_amount": "682332000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2618",
+                    "s_name": "長榮航",
+                    "holding_percentage": "6.38",
+                    "holding_amount": "420044000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2889",
+                    "s_name": "國票金",
+                    "holding_percentage": "1.69",
+                    "holding_amount": "351764380",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6005",
+                    "s_name": "群益證",
+                    "holding_percentage": "1.60",
+                    "holding_amount": "177268000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5347",
+                    "s_name": "世界",
+                    "holding_percentage": "5.61",
+                    "holding_amount": "169696441",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2603",
+                    "s_name": "長榮",
+                    "holding_percentage": "9.83",
+                    "holding_amount": "132753000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2504",
+                    "s_name": "國產",
+                    "holding_percentage": "1.66",
+                    "holding_amount": "118000000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2809",
+                    "s_name": "京城銀",
+                    "holding_percentage": "1.86",
+                    "holding_amount": "111123000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2606",
+                    "s_name": "裕民",
+                    "holding_percentage": "1.40",
+                    "holding_amount": "74700000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6239",
+                    "s_name": "力成",
+                    "holding_percentage": "2.85",
+                    "holding_amount": "71509000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2637",
+                    "s_name": "慧洋-KY",
+                    "holding_percentage": "1.41",
+                    "holding_amount": "68080000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5522",
+                    "s_name": "遠雄",
+                    "holding_percentage": "1.56",
+                    "holding_amount": "66500000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3034",
+                    "s_name": "聯詠",
+                    "holding_percentage": "8.96",
+                    "holding_amount": "54965000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "8112",
+                    "s_name": "至上",
+                    "holding_percentage": "0.96",
+                    "holding_amount": "49806000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6176",
+                    "s_name": "瑞儀",
+                    "holding_percentage": "2.74",
+                    "holding_amount": "44283000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4915",
+                    "s_name": "致伸",
+                    "holding_percentage": "1.13",
+                    "holding_amount": "43972000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2451",
+                    "s_name": "創見",
+                    "holding_percentage": "1.12",
+                    "holding_amount": "39998000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2393",
+                    "s_name": "億光",
+                    "holding_percentage": "1.03",
+                    "holding_amount": "37700000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6278",
+                    "s_name": "台表科",
+                    "holding_percentage": "1.05",
+                    "holding_amount": "29239000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1442",
+                    "s_name": "名軒",
+                    "holding_percentage": "0.54",
+                    "holding_amount": "23200000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2454",
+                    "s_name": "聯發科",
+                    "holding_percentage": "10.96",
+                    "holding_amount": "22699000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5508",
+                    "s_name": "永信建",
+                    "holding_percentage": "0.98",
+                    "holding_amount": "21742000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2404",
+                    "s_name": "漢唐",
+                    "holding_percentage": "2.98",
+                    "holding_amount": "18009000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6121",
+                    "s_name": "新普",
+                    "holding_percentage": "2.26",
+                    "holding_amount": "17590000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "8299",
+                    "s_name": "群聯",
+                    "holding_percentage": "2.88",
+                    "holding_amount": "17461000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2348",
+                    "s_name": "海悅",
+                    "holding_percentage": "0.77",
+                    "holding_amount": "13000000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6691",
+                    "s_name": "洋基工程",
+                    "holding_percentage": "1.59",
+                    "holding_amount": "10575414",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5904",
+                    "s_name": "寶雅",
+                    "holding_percentage": "1.66",
+                    "holding_amount": "10493430",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3592",
+                    "s_name": "瑞鼎",
+                    "holding_percentage": "0.54",
+                    "holding_amount": "4250000",
+                    "unit": "股"
+                }
+            ]
+        },
+        {
+            "etf_code": "00929",
+            "etf_name": "復華台灣科技優息",
+            "scraping_time": "2025-01-07 19:37:53",
+            "etf_holding": [
+                {
+                    "s_code": "2303",
+                    "s_name": "聯華電子",
+                    "holding_percentage": "8.15",
+                    "holding_amount": "451912000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3045",
+                    "s_name": "台灣大哥",
+                    "holding_percentage": "7.98",
+                    "holding_amount": "168017000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4904",
+                    "s_name": "遠傳電信",
+                    "holding_percentage": "6.12",
+                    "holding_amount": "162622000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2353",
+                    "s_name": "宏碁股份",
+                    "holding_percentage": "2.23",
+                    "holding_amount": "136880000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3711",
+                    "s_name": "日月光投",
+                    "holding_percentage": "9.66",
+                    "holding_amount": "129577000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4938",
+                    "s_name": "和碩聯合",
+                    "holding_percentage": "4.86",
+                    "holding_amount": "120062000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2301",
+                    "s_name": "光寶科技",
+                    "holding_percentage": "4.57",
+                    "holding_amount": "105776000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5347",
+                    "s_name": "世界先進",
+                    "holding_percentage": "3.31",
+                    "holding_amount": "76146000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3702",
+                    "s_name": "大聯大控",
+                    "holding_percentage": "2.27",
+                    "holding_amount": "75422000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2347",
+                    "s_name": "聯強國際",
+                    "holding_percentage": "2.31",
+                    "holding_amount": "74931000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2449",
+                    "s_name": "京元電子",
+                    "holding_percentage": "2.80",
+                    "holding_amount": "54990000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2385",
+                    "s_name": "群光電子",
+                    "holding_percentage": "2.21",
+                    "holding_amount": "34133000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6239",
+                    "s_name": "力成科技",
+                    "holding_percentage": "1.78",
+                    "holding_amount": "34037000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6147",
+                    "s_name": "頎邦科技",
+                    "holding_percentage": "0.89",
+                    "holding_amount": "33108000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2474",
+                    "s_name": "可成科技",
+                    "holding_percentage": "2.59",
+                    "holding_amount": "30583000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3034",
+                    "s_name": "聯詠科技",
+                    "holding_percentage": "5.88",
+                    "holding_amount": "27441000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3005",
+                    "s_name": "神基控股",
+                    "holding_percentage": "1.26",
+                    "holding_amount": "27349000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5483",
+                    "s_name": "中美矽晶",
+                    "holding_percentage": "1.58",
+                    "holding_amount": "27100000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3044",
+                    "s_name": "健鼎科技",
+                    "holding_percentage": "1.99",
+                    "holding_amount": "23587000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "8112",
+                    "s_name": "至上電子",
+                    "holding_percentage": "0.58",
+                    "holding_amount": "23072000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6285",
+                    "s_name": "啟碁科技",
+                    "holding_percentage": "1.22",
+                    "holding_amount": "21672000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3264",
+                    "s_name": "欣銓科技",
+                    "holding_percentage": "0.52",
+                    "holding_amount": "21550000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6191",
+                    "s_name": "精成科技",
+                    "holding_percentage": "0.63",
+                    "holding_amount": "20942000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6176",
+                    "s_name": "瑞儀光電",
+                    "holding_percentage": "1.70",
+                    "holding_amount": "20840000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4915",
+                    "s_name": "致伸科技",
+                    "holding_percentage": "0.70",
+                    "holding_amount": "20618000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2393",
+                    "s_name": "億光電子",
+                    "holding_percentage": "0.70",
+                    "holding_amount": "19631000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2454",
+                    "s_name": "聯發科技",
+                    "holding_percentage": "11.41",
+                    "holding_amount": "17987000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3042",
+                    "s_name": "台灣晶技",
+                    "holding_percentage": "0.68",
+                    "holding_amount": "15176000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6269",
+                    "s_name": "台郡科技",
+                    "holding_percentage": "0.38",
+                    "holding_amount": "14058000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5388",
+                    "s_name": "中磊電子",
+                    "holding_percentage": "0.68",
+                    "holding_amount": "13279000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6278",
+                    "s_name": "台灣表面",
+                    "holding_percentage": "0.61",
+                    "holding_amount": "12904000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3010",
+                    "s_name": "華立企業",
+                    "holding_percentage": "0.59",
+                    "holding_amount": "11412000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3596",
+                    "s_name": "智易科技",
+                    "holding_percentage": "0.76",
+                    "holding_amount": "9767000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6189",
+                    "s_name": "豐藝電子",
+                    "holding_percentage": "0.32",
+                    "holding_amount": "9446000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2404",
+                    "s_name": "漢唐集成",
+                    "holding_percentage": "1.86",
+                    "holding_amount": "8547000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6121",
+                    "s_name": "新普科技",
+                    "holding_percentage": "1.40",
+                    "holding_amount": "8273000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3014",
+                    "s_name": "聯陽半導",
+                    "holding_percentage": "0.46",
+                    "holding_amount": "7270000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6414",
+                    "s_name": "樺漢科技",
+                    "holding_percentage": "0.77",
+                    "holding_amount": "6078000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4961",
+                    "s_name": "天鈺科技",
+                    "holding_percentage": "0.53",
+                    "holding_amount": "5331000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "8016",
+                    "s_name": "矽創電子",
+                    "holding_percentage": "0.50",
+                    "holding_amount": "5274000",
+                    "unit": "股"
+                }
+            ]
+        },
+        {
+            "etf_code": "006208",
+            "etf_name": "富邦台50",
+            "scraping_time": "2025-01-07 19:38:07",
+            "etf_holding": [
+                {
+                    "s_code": "2330",
+                    "s_name": "台積電",
+                    "holding_percentage": "58.54",
+                    "holding_amount": "100929064",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2891",
+                    "s_name": "中信金",
+                    "holding_percentage": "1.38",
+                    "holding_amount": "68483506",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2883",
+                    "s_name": "凱基金",
+                    "holding_percentage": "0.59",
+                    "holding_amount": "65838000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2884",
+                    "s_name": "玉山金",
+                    "holding_percentage": "0.88",
+                    "holding_amount": "63527433",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2317",
+                    "s_name": "鴻海",
+                    "holding_percentage": "4.87",
+                    "holding_amount": "49909679",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2890",
+                    "s_name": "永豐金",
+                    "holding_percentage": "0.58",
+                    "holding_amount": "49376439",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2886",
+                    "s_name": "兆豐金",
+                    "holding_percentage": "0.98",
+                    "holding_amount": "49282130",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2887",
+                    "s_name": "台新金",
+                    "holding_percentage": "0.45",
+                    "holding_amount": "49155500",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2303",
+                    "s_name": "聯電",
+                    "holding_percentage": "1.07",
+                    "holding_amount": "49154891",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2885",
+                    "s_name": "元大金",
+                    "holding_percentage": "0.88",
+                    "holding_amount": "47732045",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2002",
+                    "s_name": "中鋼",
+                    "holding_percentage": "0.46",
+                    "holding_amount": "47332307",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2892",
+                    "s_name": "第一金",
+                    "holding_percentage": "0.62",
+                    "holding_amount": "44157527",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5880",
+                    "s_name": "合庫金",
+                    "holding_percentage": "0.53",
+                    "holding_amount": "42426262",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2882",
+                    "s_name": "國泰金",
+                    "holding_percentage": "1.37",
+                    "holding_amount": "38500200",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2880",
+                    "s_name": "華南金",
+                    "holding_percentage": "0.52",
+                    "holding_amount": "38147690",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2881",
+                    "s_name": "富邦金",
+                    "holding_percentage": "1.60",
+                    "holding_amount": "34001799",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1101",
+                    "s_name": "台泥",
+                    "holding_percentage": "0.45",
+                    "holding_amount": "27790835",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1303",
+                    "s_name": "南亞",
+                    "holding_percentage": "0.33",
+                    "holding_amount": "21718502",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1216",
+                    "s_name": "統一",
+                    "holding_percentage": "0.82",
+                    "holding_amount": "20051765",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2412",
+                    "s_name": "中華電",
+                    "holding_percentage": "1.00",
+                    "holding_amount": "15908072",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1301",
+                    "s_name": "台塑",
+                    "holding_percentage": "0.28",
+                    "holding_amount": "15602117",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5876",
+                    "s_name": "上海商銀",
+                    "holding_percentage": "0.32",
+                    "holding_amount": "15600359",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1326",
+                    "s_name": "台化",
+                    "holding_percentage": "0.20",
+                    "holding_amount": "14289564",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3711",
+                    "s_name": "日月光投控",
+                    "holding_percentage": "1.21",
+                    "holding_amount": "13503577",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3231",
+                    "s_name": "緯創",
+                    "holding_percentage": "0.63",
+                    "holding_amount": "11376000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2382",
+                    "s_name": "廣達",
+                    "holding_percentage": "1.68",
+                    "holding_amount": "11105301",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2308",
+                    "s_name": "台達電",
+                    "holding_percentage": "2.00",
+                    "holding_amount": "9035581",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4938",
+                    "s_name": "和碩",
+                    "holding_percentage": "0.42",
+                    "holding_amount": "8542000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2301",
+                    "s_name": "光寶科",
+                    "holding_percentage": "0.43",
+                    "holding_amount": "8340000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4904",
+                    "s_name": "遠傳",
+                    "holding_percentage": "0.34",
+                    "holding_amount": "7394506",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2609",
+                    "s_name": "陽明",
+                    "holding_percentage": "0.30",
+                    "holding_amount": "7306000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5871",
+                    "s_name": "中租-KY",
+                    "holding_percentage": "0.38",
+                    "holding_amount": "6298838",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3045",
+                    "s_name": "台灣大",
+                    "holding_percentage": "0.35",
+                    "holding_amount": "6202368",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2454",
+                    "s_name": "聯發科",
+                    "holding_percentage": "4.74",
+                    "holding_amount": "6194042",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6505",
+                    "s_name": "台塑化",
+                    "holding_percentage": "0.10",
+                    "holding_amount": "5709203",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3037",
+                    "s_name": "欣興",
+                    "holding_percentage": "0.43",
+                    "holding_amount": "5436000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2603",
+                    "s_name": "長榮",
+                    "holding_percentage": "0.50",
+                    "holding_amount": "4246000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2357",
+                    "s_name": "華碩",
+                    "holding_percentage": "0.98",
+                    "holding_amount": "2949657",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3034",
+                    "s_name": "聯詠",
+                    "holding_percentage": "0.62",
+                    "holding_amount": "2393698",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2912",
+                    "s_name": "統一超",
+                    "holding_percentage": "0.29",
+                    "holding_amount": "2189576",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2345",
+                    "s_name": "智邦",
+                    "holding_percentage": "0.82",
+                    "holding_amount": "2098000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2379",
+                    "s_name": "瑞昱",
+                    "holding_percentage": "0.55",
+                    "holding_amount": "1988728",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2327",
+                    "s_name": "國巨",
+                    "holding_percentage": "0.56",
+                    "holding_amount": "1943432",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2395",
+                    "s_name": "研華",
+                    "holding_percentage": "0.35",
+                    "holding_amount": "1914538",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2207",
+                    "s_name": "和泰車",
+                    "holding_percentage": "0.43",
+                    "holding_amount": "1360044",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3017",
+                    "s_name": "奇鋐",
+                    "holding_percentage": "0.43",
+                    "holding_amount": "1322000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6446",
+                    "s_name": "藥華藥",
+                    "holding_percentage": "0.40",
+                    "holding_amount": "1069000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6669",
+                    "s_name": "緯穎",
+                    "holding_percentage": "0.61",
+                    "holding_amount": "432000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3008",
+                    "s_name": "大立光",
+                    "holding_percentage": "0.54",
+                    "holding_amount": "395468",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3661",
+                    "s_name": "世芯-KY",
+                    "holding_percentage": "0.53",
+                    "holding_amount": "322000",
+                    "unit": "股"
+                }
+            ]
+        },
+        {
+            "etf_code": "00940",
+            "etf_name": "元大台灣價值高息",
+            "scraping_time": "2025-01-07 19:38:22",
+            "etf_holding": [
+                {
+                    "s_code": "2610",
+                    "s_name": "華航",
+                    "holding_percentage": "3.11",
+                    "holding_amount": "185404000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2618",
+                    "s_name": "長榮航",
+                    "holding_percentage": "4.36",
+                    "holding_amount": "144096000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2890",
+                    "s_name": "永豐金",
+                    "holding_percentage": "2.09",
+                    "holding_amount": "141153025",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2891",
+                    "s_name": "中信金",
+                    "holding_percentage": "3.38",
+                    "holding_amount": "133496000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2892",
+                    "s_name": "第一金",
+                    "holding_percentage": "2.16",
+                    "holding_amount": "121570360",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1402",
+                    "s_name": "遠東新",
+                    "holding_percentage": "1.94",
+                    "holding_amount": "98533000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2303",
+                    "s_name": "聯電",
+                    "holding_percentage": "2.64",
+                    "holding_amount": "96788000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "9904",
+                    "s_name": "寶成",
+                    "holding_percentage": "1.99",
+                    "holding_amount": "82871000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2834",
+                    "s_name": "臺企銀",
+                    "holding_percentage": "0.70",
+                    "holding_amount": "71714000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1504",
+                    "s_name": "東元",
+                    "holding_percentage": "2.18",
+                    "holding_amount": "63418000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3702",
+                    "s_name": "大聯大",
+                    "holding_percentage": "2.31",
+                    "holding_amount": "50529000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2504",
+                    "s_name": "國產",
+                    "holding_percentage": "1.24",
+                    "holding_amount": "44173000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4938",
+                    "s_name": "和碩",
+                    "holding_percentage": "2.67",
+                    "holding_amount": "43457000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2347",
+                    "s_name": "聯強",
+                    "holding_percentage": "1.95",
+                    "holding_amount": "41746000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2603",
+                    "s_name": "長榮",
+                    "holding_percentage": "6.03",
+                    "holding_amount": "40934000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2915",
+                    "s_name": "潤泰全",
+                    "holding_percentage": "1.38",
+                    "holding_amount": "30657000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5483",
+                    "s_name": "中美晶",
+                    "holding_percentage": "2.65",
+                    "holding_amount": "30048000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2881",
+                    "s_name": "富邦金",
+                    "holding_percentage": "1.71",
+                    "holding_amount": "28880000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2385",
+                    "s_name": "群光",
+                    "holding_percentage": "2.76",
+                    "holding_amount": "28095000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6239",
+                    "s_name": "力成",
+                    "holding_percentage": "1.78",
+                    "holding_amount": "22429000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3036",
+                    "s_name": "文曄",
+                    "holding_percentage": "1.63",
+                    "holding_amount": "22324000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2474",
+                    "s_name": "可成",
+                    "holding_percentage": "2.79",
+                    "holding_amount": "21759000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1319",
+                    "s_name": "東陽",
+                    "holding_percentage": "1.50",
+                    "holding_amount": "20688000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3044",
+                    "s_name": "健鼎",
+                    "holding_percentage": "2.20",
+                    "holding_amount": "17206000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3711",
+                    "s_name": "日月光投控",
+                    "holding_percentage": "1.86",
+                    "holding_amount": "16475000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4915",
+                    "s_name": "致伸",
+                    "holding_percentage": "0.81",
+                    "holding_amount": "15881000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6257",
+                    "s_name": "矽格",
+                    "holding_percentage": "0.71",
+                    "holding_amount": "15743000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6285",
+                    "s_name": "啟碁",
+                    "holding_percentage": "1.28",
+                    "holding_amount": "15070000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2458",
+                    "s_name": "義隆",
+                    "holding_percentage": "1.43",
+                    "holding_amount": "14284000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3264",
+                    "s_name": "欣銓",
+                    "holding_percentage": "0.51",
+                    "holding_amount": "13743000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6488",
+                    "s_name": "環球晶",
+                    "holding_percentage": "3.39",
+                    "holding_amount": "13525000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2393",
+                    "s_name": "億光",
+                    "holding_percentage": "0.67",
+                    "holding_amount": "12268000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2382",
+                    "s_name": "廣達",
+                    "holding_percentage": "2.21",
+                    "holding_amount": "11595000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3034",
+                    "s_name": "聯詠",
+                    "holding_percentage": "3.46",
+                    "holding_amount": "10647000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "8299",
+                    "s_name": "群聯",
+                    "holding_percentage": "3.45",
+                    "holding_amount": "10488000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3042",
+                    "s_name": "晶技",
+                    "holding_percentage": "0.67",
+                    "holding_amount": "9930000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2439",
+                    "s_name": "美律",
+                    "holding_percentage": "0.65",
+                    "holding_amount": "9273000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2357",
+                    "s_name": "華碩",
+                    "holding_percentage": "3.78",
+                    "holding_amount": "9046000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6176",
+                    "s_name": "瑞儀",
+                    "holding_percentage": "1.01",
+                    "holding_amount": "8219000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2548",
+                    "s_name": "華固",
+                    "holding_percentage": "0.59",
+                    "holding_amount": "7913000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6278",
+                    "s_name": "台表科",
+                    "holding_percentage": "0.55",
+                    "holding_amount": "7614000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2379",
+                    "s_name": "瑞昱",
+                    "holding_percentage": "2.65",
+                    "holding_amount": "7565000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3376",
+                    "s_name": "新日興",
+                    "holding_percentage": "0.92",
+                    "holding_amount": "7173206",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2404",
+                    "s_name": "漢唐",
+                    "holding_percentage": "1.73",
+                    "holding_amount": "5249000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6414",
+                    "s_name": "樺漢",
+                    "holding_percentage": "0.97",
+                    "holding_amount": "5096000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4961",
+                    "s_name": "天鈺",
+                    "holding_percentage": "0.66",
+                    "holding_amount": "4392000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3406",
+                    "s_name": "玉晶光",
+                    "holding_percentage": "1.37",
+                    "holding_amount": "4337000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2454",
+                    "s_name": "聯發科",
+                    "holding_percentage": "4.12",
+                    "holding_amount": "4288000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3413",
+                    "s_name": "京鼎",
+                    "holding_percentage": "0.73",
+                    "holding_amount": "3528000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3293",
+                    "s_name": "鈊象",
+                    "holding_percentage": "1.68",
+                    "holding_amount": "2661000",
+                    "unit": "股"
+                }
+            ]
+        },
+        {
+            "etf_code": "00713",
+            "etf_name": "元大台灣高息低波",
+            "scraping_time": "2025-01-07 19:38:34",
+            "etf_holding": [
+                {
+                    "s_code": "2887",
+                    "s_name": "台新金",
+                    "holding_percentage": "3.73",
+                    "holding_amount": "251976000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2880",
+                    "s_name": "華南金",
+                    "holding_percentage": "3.38",
+                    "holding_amount": "151239450",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1216",
+                    "s_name": "統一",
+                    "holding_percentage": "9.30",
+                    "holding_amount": "139494000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4904",
+                    "s_name": "遠傳",
+                    "holding_percentage": "8.89",
+                    "holding_amount": "120132000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3045",
+                    "s_name": "台灣大",
+                    "holding_percentage": "9.62",
+                    "holding_amount": "102886000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2884",
+                    "s_name": "玉山金",
+                    "holding_percentage": "2.22",
+                    "holding_amount": "97760000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2891",
+                    "s_name": "中信金",
+                    "holding_percentage": "3.14",
+                    "holding_amount": "95611000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2883",
+                    "s_name": "凱基金",
+                    "holding_percentage": "1.31",
+                    "holding_amount": "89504000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2845",
+                    "s_name": "遠東銀",
+                    "holding_percentage": "0.98",
+                    "holding_amount": "87478162",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6005",
+                    "s_name": "群益證",
+                    "holding_percentage": "1.21",
+                    "holding_amount": "51858000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2890",
+                    "s_name": "永豐金",
+                    "holding_percentage": "0.98",
+                    "holding_amount": "50966000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5876",
+                    "s_name": "上海商銀",
+                    "holding_percentage": "1.62",
+                    "holding_amount": "47868000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2903",
+                    "s_name": "遠百",
+                    "holding_percentage": "0.80",
+                    "holding_amount": "43133000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2885",
+                    "s_name": "元大金",
+                    "holding_percentage": "1.05",
+                    "holding_amount": "34959940",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2006",
+                    "s_name": "東和鋼鐵",
+                    "holding_percentage": "1.74",
+                    "holding_amount": "31764000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2347",
+                    "s_name": "聯強",
+                    "holding_percentage": "1.91",
+                    "holding_amount": "31397000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "9904",
+                    "s_name": "寶成",
+                    "holding_percentage": "0.89",
+                    "holding_amount": "28667000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2618",
+                    "s_name": "長榮航",
+                    "holding_percentage": "1.12",
+                    "holding_amount": "28518000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2912",
+                    "s_name": "統一超",
+                    "holding_percentage": "6.04",
+                    "holding_amount": "27525000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2206",
+                    "s_name": "三陽工業",
+                    "holding_percentage": "1.42",
+                    "holding_amount": "24361000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2855",
+                    "s_name": "統一證",
+                    "holding_percentage": "0.49",
+                    "holding_amount": "21921000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2606",
+                    "s_name": "裕民",
+                    "holding_percentage": "0.96",
+                    "holding_amount": "19881000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2303",
+                    "s_name": "聯電",
+                    "holding_percentage": "0.67",
+                    "holding_amount": "18950000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "9917",
+                    "s_name": "中保科",
+                    "holding_percentage": "1.92",
+                    "holding_amount": "18442000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "9933",
+                    "s_name": "中鼎",
+                    "holding_percentage": "0.57",
+                    "holding_amount": "16952000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4938",
+                    "s_name": "和碩",
+                    "holding_percentage": "1.31",
+                    "holding_amount": "16437000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2015",
+                    "s_name": "豐興",
+                    "holding_percentage": "0.94",
+                    "holding_amount": "16420000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "9939",
+                    "s_name": "宏全",
+                    "holding_percentage": "1.82",
+                    "holding_amount": "14934597",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1102",
+                    "s_name": "亞泥",
+                    "holding_percentage": "0.45",
+                    "holding_amount": "13214000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1215",
+                    "s_name": "卜蜂",
+                    "holding_percentage": "0.98",
+                    "holding_amount": "12548000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "8112",
+                    "s_name": "至上",
+                    "holding_percentage": "0.62",
+                    "holding_amount": "12392000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1210",
+                    "s_name": "大成",
+                    "holding_percentage": "0.53",
+                    "holding_amount": "12380000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2211",
+                    "s_name": "長榮鋼",
+                    "holding_percentage": "0.89",
+                    "holding_amount": "12005000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2850",
+                    "s_name": "新產",
+                    "holding_percentage": "1.05",
+                    "holding_amount": "11849000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2441",
+                    "s_name": "超豐",
+                    "holding_percentage": "0.57",
+                    "holding_amount": "11551000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2393",
+                    "s_name": "億光",
+                    "holding_percentage": "0.77",
+                    "holding_amount": "10962000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4915",
+                    "s_name": "致伸",
+                    "holding_percentage": "0.69",
+                    "holding_amount": "10441000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6176",
+                    "s_name": "瑞儀",
+                    "holding_percentage": "1.63",
+                    "holding_amount": "10190000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6278",
+                    "s_name": "台表科",
+                    "holding_percentage": "0.76",
+                    "holding_amount": "8211000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5388",
+                    "s_name": "中磊",
+                    "holding_percentage": "0.80",
+                    "holding_amount": "7933000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3010",
+                    "s_name": "華立",
+                    "holding_percentage": "0.69",
+                    "holding_amount": "6794000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6239",
+                    "s_name": "力成",
+                    "holding_percentage": "0.68",
+                    "holding_amount": "6626000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6691",
+                    "s_name": "洋基工程",
+                    "holding_percentage": "2.42",
+                    "holding_amount": "6241400",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "5434",
+                    "s_name": "崇越",
+                    "holding_percentage": "1.34",
+                    "holding_amount": "5384678",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3596",
+                    "s_name": "智易",
+                    "holding_percentage": "0.78",
+                    "holding_amount": "5130000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2597",
+                    "s_name": "潤弘",
+                    "holding_percentage": "0.54",
+                    "holding_amount": "4318000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "1477",
+                    "s_name": "聚陽",
+                    "holding_percentage": "1.01",
+                    "holding_amount": "3693620",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "4766",
+                    "s_name": "南寶",
+                    "holding_percentage": "1.01",
+                    "holding_amount": "3679000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2385",
+                    "s_name": "群光",
+                    "holding_percentage": "0.45",
+                    "holding_amount": "3525000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6670",
+                    "s_name": "復盛應用",
+                    "holding_percentage": "0.92",
+                    "holding_amount": "3329000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "6196",
+                    "s_name": "帆宣",
+                    "holding_percentage": "0.36",
+                    "holding_amount": "2898000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2454",
+                    "s_name": "聯發科",
+                    "holding_percentage": "3.44",
+                    "holding_amount": "2754000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "2404",
+                    "s_name": "漢唐",
+                    "holding_percentage": "0.87",
+                    "holding_amount": "2021000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3044",
+                    "s_name": "健鼎",
+                    "holding_percentage": "0.29",
+                    "holding_amount": "1765000",
+                    "unit": "股"
+                },
+                {
+                    "s_code": "3034",
+                    "s_name": "聯詠",
+                    "holding_percentage": "0.73",
+                    "holding_amount": "1727000",
+                    "unit": "股"
+                }
+            ]
+        }
+    ]
+}

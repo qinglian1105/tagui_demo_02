@@ -1,0 +1,10 @@
+{
+    "pocket_url":"https://www.pocket.tw/etf/tw/",
+    "type_code":"//*[@id=\"__layout\"]/div/div/header/div[2]/div[1]/div[3]/div/ul/div/div[1]/div/div/div/label/input",
+    "click_code":"//*[@id=\"__layout\"]/div/div/header/div[2]/div[1]/div[3]/div/ul/div/div[1]/div/div/div/label/input",
+    "click_option":"/html/body/div[3]/div[2]/div/span[2]",
+    "click_holding":"//*[@id=\"__layout\"]/div/div/div[2]/nav/div/div/div[2]/div[1]/div/div[4]/span/a",
+    "dom_etf_name":"return document.querySelector(\"#__layout > div > div > div.cm-content.container > main > div > div.fundholding__head > div > div > article > div.stockMainInfo__summaryHeader > div.stockMainInfo__title > h1\").innerHTML",
+    "dom_date":"return document.querySelector(\"#__layout > div > div > div.cm-content.container > main > div > div:nth-child(4) > section > div.fundholding__date\").innerHTML",
+    "dom_tb":"return document.querySelector(\"#__layout > div > div > div.cm-content.container > main > div > div:nth-child(4) > section > div:nth-child(2) > div > table > tbody\").innerHTML"      
+}
