@@ -8,7 +8,7 @@
 TagUI is an open-source RPA tool. The package "RPA for Python" is based on TagUI. The content of this project is a demo to build an example of periodically performing web scraping with "RPA for Python".<br><br>
 
 ### **Ⅱ. Tools**
-RPA for Python、APScheduler (Advanced Python Schedule)<br><br>
+RPA for Python、APScheduler (Advanced Python Schedule)、MongoDB<br><br>
 
 ### **Ⅲ. Statement**
 
@@ -20,19 +20,22 @@ In addition, the information about ETF ranking by asset value, trading volume an
 
 __2. Data source__ <br>
 
-Thanks for the website, https://www.pocket.tw/etf/, provided by Pocket Securities. This company, one of the best Online Broker in Taiwan, delivers high-quality services to customers, and its website makes it easier for investors to obtain financial data and useful information. <br>
+Thanks for the website, "https://www.pocket.tw/etf/", provided by Pocket Securities. This company, one of the best Online Brokers in Taiwan, delivers high-quality services to customers, and its website makes it easier for investors to obtain financial data and useful information. <br>
 <br>
 
 __3. How programming works__ <br>
 
 Advanced Python Scheduler (APScheduler) is a Python library that lets you schedule your Python code to be executed later, either just once or periodically. The operation on website is implemented by "RPA for Python", and then APScheduler arranges this operation to execute periodically.
-As you can see from the python script ([rpa_scrap_etf.py](./rpa_scrap_etf.py)), this operation will be executed every 10 minutes from 18:00 to 20:00 every day.<br>
+As you can see from the python script ("[rpa_scrap_etf.py](./rpa_scrap_etf.py)"), this operation will be executed every 10 minutes from 18:00 to 20:00 every day.<br>
 <br>
 
 __4. Results__ <br>
 
-In python script, the content of html will be pared, processed, and then saved into a JSON file. (Please refer to [etfs_holding.json](./outputs/etfs_holding.json))  
-<br>
+In python script, the content of html will be pared, processed, and then saved into a JSON file with the method modifying the existing records. (Please refer to "[etfs_holding.json](./outputs/etfs_holding.json)") <br>
+Besides, the data after processing also will be updated into MongoDB. Checking whether the data exists in database can execute the python script (Please refer to "[save_db.py](./save_db.py)"), and then the result will be shown in the terminal as below. <br>
+
+![avatar](./README_png/terminal_result.png)
+<br><br>
 
 __The above offers an example of periodically performing web scraping with RPA for Python.__ <br>
 

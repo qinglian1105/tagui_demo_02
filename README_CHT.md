@@ -14,8 +14,8 @@ RPA for Python、APScheduler (Advanced Python Schedule)<br><br>
 
 __1. 抓取資料__ <br>
 
-目標抓取資料是台灣的 ETF (exchange-traded funds)，被翻譯為 指數股票型基金 或 交易所交易基金 或 交易型開放式指數基金。近年台灣ETF蓬勃發展，ETF種類眾多，本專案選擇主要投資股票且資產規模超過1000億台幣的ETF，共8檔ETF，詳見程式碼上方 etfs 陣列。<br>
-另外，ETF排行請參考Yhaoo股市 ([詳見](<https://tw.stock.yahoo.com/tw-etf/total-assets>))。<br>
+目標抓取資料是台灣的 ETF (exchange-traded funds)，被翻譯為 指數股票型基金 或 交易所交易基金 或 交易型開放式指數基金。近幾年台灣ETF蓬勃發展，ETF種類眾多，本專案選擇主要投資股票且資產規模超過1000億台幣的ETF，共8檔ETF，詳見程式碼上方 etfs 陣列。<br>
+另外，ETF排行請參考Yahoo股市 ([詳見](<https://tw.stock.yahoo.com/tw-etf/total-assets>))。<br>
 <br> 
 
 __2. 資料來源__ <br>
@@ -31,8 +31,11 @@ APScheduler是一個輕量級的Python任務定時執行模組或套件，它可
 
 __4. 結果__ <br>
 
-Python程式碼將解析HTML的內容、處理資料，然後寫進JSON檔案中。(內容請參考 [etfs_holding.json](./outputs/etfs_holding.json))
-<br>
+Python程式碼將解析HTML的內容、處理資料，然後寫進JSON檔案中。(內容請參考 [etfs_holding.json](./outputs/etfs_holding.json))<br>
+此外，資料也將被更新到MongoDB資料庫。檢查資料是否已匯入資料庫可以執行另一個python檔案(詳見「[save_db.py](./save_db.py)」)，內容將可顯示在終端視窗如下。<br>
+
+![avatar](./README_png/terminal_result.png)
+<br><br>
 
 __以上提供一個例子去使用「RPA for Python」建立一個排程以定期地抓取網頁資料。__ <br>
 
