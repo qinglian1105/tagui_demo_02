@@ -8,13 +8,13 @@
 TagUI is an open-source RPA tool. The package "RPA for Python" is based on TagUI. The content of this project is a demo to build an example of periodically performing web scraping with "RPA for Python".<br><br>
 
 ### **Ⅱ. Tools**
-RPA for Python、APScheduler (Advanced Python Schedule)、MongoDB<br><br>
+RPA for Python, APScheduler (Advanced Python Schedule), MongoDB<br><br>
 
 ### **Ⅲ. Statement**
 
 __1. The data of web scraping__ <br>
 
-The targeted data is the holding details, like stocks, bonds and so on, of exchange-traded fund (ETF) in Taiwan. The ETFs are selected according to the standard that they primarily invest in stocks and their asset value is more than one hundred billion (TWD). Therefore, 8 ETFs are selected in this project. (Please refer to the list "etfs" in python script)<br>
+The targeted data is the holding details, like stocks, bonds and so on, of exchange-traded fund (ETF) in Taiwan. The ETFs are selected according to the standard that they primarily invest in stocks and their asset value is more than one hundred billion (TWD). Therefore, 8 ETFs are selected in this project. Their security codes are '0050', '00878', '0056', '00919', '00929', '006208', '00940' and '00713' respectively.<br>
 In addition, the information about ETF ranking by asset value, trading volume and so on, in Taiwan can be read on the website, Yahoo Finance (Taiwan). (Please refer to [details](<https://tw.stock.yahoo.com/tw-etf/total-assets>))。<br>
 <br> 
 
@@ -31,8 +31,8 @@ As you can see from the python script ("[rpa_scrap_etf.py](./rpa_scrap_etf.py)")
 
 __4. Results__ <br>
 
-In python script, the content of html will be pared, processed, and then saved into a JSON file with the method modifying the existing records. (Please refer to "[etfs_holding.json](./outputs/etfs_holding.json)") <br>
-Besides, the data after processing also will be updated into MongoDB. Checking whether the data exists in database can execute the python script (Please refer to "[save_db.py](./save_db.py)"), and then the result will be shown in the terminal as below. <br>
+In python script, the content of html will be pared, processed, and then saved into a JSON file. (Please refer to "[etfs_holding.json](./outputs/etfs_holding.json)") <br>
+Besides, the data after processing also will be updated into MongoDB. Checking whether the data exists in database can execute the python script (Please refer to "[save_db.py](./save_db.py)"), and then the result by the query of MongoDB will be shown in the terminal as below. <br>
 
 ![avatar](./README_png/terminal_result.png)
 <br><br>
