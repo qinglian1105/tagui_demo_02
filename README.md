@@ -39,7 +39,8 @@ Besides, the data after processing also will be updated into MongoDB. Checking w
 
 __The above offers an example of periodically performing web scraping with RPA for Python.__ <br>
 
-(Similar projects, please refer to: [tagui_demo_01](<https://github.com/qinglian1105/tagui_demo_01>) , [uipath_demo_01](<https://github.com/qinglian1105/uipath_demo_01>) , [power_automate_demo_01](<https://github.com/qinglian1105/power_automate_demo_01>) )
+(Similar projects, please refer to: [tagui_demo_01](<https://github.com/qinglian1105/tagui_demo_01>) , [uipath_demo_01](<https://github.com/qinglian1105/uipath_demo_01>) , [power_automate_demo_01](<https://github.com/qinglian1105/power_automate_demo_01>) )<br>
+(Web scraping project, please refer to: [playwright_multitasking_demo_01](<https://github.com/qinglian1105/playwright_multitasking_demo_01>) )
 <br><br>
 
 ---

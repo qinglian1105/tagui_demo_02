@@ -39,7 +39,8 @@ Python程式碼將解析HTML的內容、處理資料，然後寫進JSON檔案中
 
 __以上提供一個例子去使用「RPA for Python」建立一個排程以定期地抓取網頁資料。__ <br>
 
-(相似專案 [tagui_demo_01](<https://github.com/qinglian1105/tagui_demo_01>) 、 [uipath_demo_01](<https://github.com/qinglian1105/uipath_demo_01>) 、 [power_automate_demo_01](<https://github.com/qinglian1105/power_automate_demo_01>) 請參考)
+(個人相似專案 [tagui_demo_01](<https://github.com/qinglian1105/tagui_demo_01>) 、 [uipath_demo_01](<https://github.com/qinglian1105/uipath_demo_01>) 、 [power_automate_demo_01](<https://github.com/qinglian1105/power_automate_demo_01>) 請參考)<br>
+(網路爬蟲專案 [playwright_multitasking_demo_01](<https://github.com/qinglian1105/playwright_multitasking_demo_01>) 請參考)
 <br><br>
 
 ---
